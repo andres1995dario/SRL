@@ -1,0 +1,242 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	academic background	-0.7943	-0.4266	4	19	47	2	2020.5
+2	academic failure	-0.014	-0.1839	3	18	83	5	2019.4
+3	academic performance prediction	0.863	-0.3378	5	35	49	4	2020
+4	active learning methodology	1.0993	0.0726	3	4	10	2	2017
+5	addition	-0.0781	-0.3403	6	15	24	2	2021
+6	additional assistance	-0.4488	0.15	1	19	36	2	2018.5
+7	admission score	0.9947	-0.086	3	8	26	2	2017
+8	advantage	-0.6013	0.3469	1	33	63	3	2019.6667
+9	age	0.882	-0.6121	5	27	54	3	2019.3333
+10	ann	0.3159	-0.3005	3	4	12	3	2021
+11	art method	0.1073	0.3165	10	12	20	2	2020
+12	artificial intelligence technique	0.7114	-0.4358	3	10	12	2	2020.5
+13	assignment	-0.5359	0.2151	11	22	74	5	2019.6
+14	associative model	-0.8048	0.2416	11	5	16	2	2021
+15	attendance	-0.4326	-0.2537	6	27	83	8	2019.875
+16	attendance percentage	-1.3505	-1.0121	4	6	20	2	2020
+17	auc	-0.893	-0.4855	4	20	129	4	2020.75
+18	bangladeshi university student	-0.9517	-0.5272	4	17	84	2	2021
+19	best prediction result	0.925	-0.8218	5	22	47	2	2020
+20	best result	-0.4896	0.4908	1	22	78	2	2021
+21	better result	0.6842	0.2949	9	33	54	3	2018.6667
+22	big data analytic	0.0745	-0.0494	2	17	25	2	2018
+23	big data technique	0.0736	0.2212	7	10	15	3	2018.6667
+24	certain academic discipline	0.9769	0.5005	9	5	16	2	2019
+25	clasificacion	0.5716	-1.1363	2	1	1	2	2020.5
+26	classification accuracy	-1.3488	-1.0116	4	6	20	2	2020
+27	classification algorithm	0.5255	0.5759	9	25	36	3	2018.6667
+28	classification rule	1.0288	0.2069	8	10	15	2	2018
+29	classification tree	-0.1239	0.2376	7	15	25	3	2019
+30	classroom	0.0623	0.262	2	26	44	3	2019
+31	classroom learning	-0.0543	0.6914	10	14	62	4	2021
+32	cluster	-0.7979	-0.2348	7	10	32	5	2020.6
+33	clustering	-0.5421	-0.1024	7	20	42	5	2019.6
+34	co curricular activity	-0.4458	0.5318	11	5	36	6	2021
+35	coefficient	-0.1652	-0.0303	2	22	36	2	2019
+36	cognitive ability	-0.3106	0.1814	7	9	24	2	2021
+37	cohort mathematics	0.9347	-0.823	5	22	47	2	2020
+38	college student	-0.6985	0.5501	12	16	26	2	2019
+39	colombian nation wide university admission exam	0.9283	-0.8197	5	22	47	2	2020
+40	comprehensive analysis	-0.1755	0.0339	2	17	22	2	2020.5
+41	confusion matrix	-0.8608	-0.6319	4	22	51	2	2020
+42	conventional statistical evaluation	-0.6871	-0.7843	6	6	14	2	2019
+43	correlation	-0.4377	0.2483	11	19	53	5	2019.8
+44	counselling	0.1531	0.2233	10	9	66	6	2019
+45	course achievement	-0.5203	0.3604	1	10	65	5	2017
+46	course length	-0.4707	0.4739	1	22	114	3	2021
+47	cross validation	0.1925	-0.0271	10	28	53	5	2019
+48	data analytics technique	-0.4707	0.5257	1	10	40	2	2018
+49	data mining tool	1.0289	0.2054	8	10	15	2	2018
+50	data source	0.2313	0.167	3	11	24	3	2019
+51	decision tree algorithm	0.7371	0.2792	8	14	23	3	2019
+52	decision trees	0.9559	0.1772	8	13	16	2	2017.5
+53	deep learning	-0.2583	0.0875	2	40	111	6	2021
+54	degree student	0.9709	-0.0848	3	8	36	3	2017
+55	demographic data	-0.4603	0.1196	7	23	33	3	2020
+56	distance	-0.4409	-0.297	6	19	43	3	2020.6667
+57	distance higher education	1.0995	0.0737	3	4	10	2	2017
+58	early identification	0.9426	-0.2107	3	13	17	2	2018.5
+59	early prediction	0.3563	0.008	3	30	57	4	2018
+60	early stage	0.1641	-0.0416	2	26	55	4	2020.25
+61	edm study	0.0461	0.7552	10	9	36	2	2021
+62	educational data mining technique	0.3756	0.215	3	16	50	3	2017
+63	educational database	0.5349	0.5542	8	12	18	2	2017
+64	educational dataset	0.8167	0.8146	9	13	40	2	2018
+65	educational process	-0.7616	0.2987	12	15	20	2	2020.5
+66	educational program	-0.7887	-0.194	7	14	20	2	2020.5
+67	educational setting	0.5266	0.4612	9	26	44	3	2019.6667
+68	effectiveness	0.3725	0.1176	3	29	122	10	2017.7
+69	engineering student	0.5389	-0.4862	5	44	100	7	2020
+70	enrollment	-0.5789	-0.2163	7	16	25	3	2019.6667
+71	ensemble model	-0.3396	-0.3445	6	17	62	5	2020.8
+72	entrance mark	0.9955	-0.0882	3	8	26	2	2017
+73	error	0.1083	-0.336	2	26	42	4	2019.5
+74	examination	0.7621	0.606	9	20	36	4	2019.25
+75	experimental result	0.0606	0.3406	1	37	65	3	2019.6667
+76	exploitation	0.9585	0.2518	3	9	12	2	2017
+77	extracurricular activity	-0.484	0.5805	11	5	20	2	2021
+78	f score	-0.4482	0.5804	1	27	95	3	2020.3333
+79	failure	-0.1292	0.0362	2	27	71	5	2020.8
+80	failure rate	0.3987	0.0335	3	8	38	2	2017
+81	family expenditure	0.7688	0.4427	8	5	10	2	2017
+82	feature selection	0.821	0.8113	9	13	40	2	2018
+83	feature selection algorithm	0.8187	0.8106	9	13	40	2	2018
+84	filter feature selection algorithm	0.8168	0.8122	9	13	40	2	2018
+85	final exam	0.2478	-0.2167	3	22	36	3	2018.3333
+86	final gpa	1.0832	0.2789	8	7	16	2	2017
+87	first year student	-0.491	-0.2197	7	14	26	4	2019
+88	fs algorithm	0.8209	0.8137	9	13	40	2	2018
+89	further research	-0.4861	0.5279	1	11	22	2	2019.5
+90	fuzzy genetic algorithm	0.9977	-0.0871	3	8	26	2	2017
+91	gender	0.6007	-0.6546	5	39	127	7	2020.2857
+92	good prediction	-0.5006	-0.5794	6	17	25	2	2020
+93	got	-0.3858	0.8734	1	8	32	2	2019
+94	gradiente	0.3478	-0.788	2	7	24	2	2021
+95	graduate	-0.3681	0.8438	1	8	56	4	2019
+96	hei	-0.1271	0.624	12	6	14	2	2020
+97	high accuracy	-0.9161	-0.1411	7	10	15	2	2021
+98	ibk	0.1677	0.2369	10	9	30	2	2019
+99	icfes score	0.8977	-0.793	5	22	90	4	2020
+100	identification	-0.097	0.3224	10	18	30	3	2019.6667
+101	imaging sensor	-0.8259	0.6988	12	6	16	2	2021
+102	individual student	-0.0584	0.375	3	2	4	2	2019
+103	industrial engineering undergraduate student	0.9268	-0.8274	5	22	47	2	2020
+104	influence	-0.7173	0.5755	12	14	27	3	2020.6667
+105	influential factor	0.7854	-0.4445	3	9	20	2	2020
+106	input variable	-0.4859	-0.4548	6	19	51	4	2019.5
+107	integrated system	-0.6574	-0.1493	6	9	20	2	2020
+108	interest	-0.1373	0.5311	1	37	114	6	2020
+109	internal mark	0.9966	-0.085	3	8	26	2	2017
+110	international student	-1.3338	-1	4	6	27	3	2020
+111	interpretability	-0.7544	0.1449	11	11	22	3	2020.6667
+112	intervention	-0.4331	0.3103	1	39	97	4	2019.5
+113	introductory programming course	0.3743	0.0327	3	8	68	4	2017
+114	issue	-0.1531	0.0535	2	18	47	4	2019.75
+115	k fold	-0.3869	0.8752	1	8	32	2	2019
+116	k fold accuracy	-0.9277	-0.5131	4	17	123	3	2021
+117	k nearest neighbor	0.4691	-0.3673	5	46	103	6	2020.3333
+118	k nn	-0.2183	0.186	7	13	29	3	2020.3333
+119	knowledge	0.8387	-0.17	3	20	28	3	2019
+120	knowledge level	-0.3108	0.1828	7	9	24	2	2021
+121	lack	0.3396	0.6282	8	8	22	2	2017
+122	las universidade	0.3464	-0.7898	2	7	24	2	2021
+123	learning management systems	-0.4867	0.5082	1	28	61	2	2019.5
+124	learning performance	-0.3942	0.3651	1	19	34	2	2019.5
+125	learning problem	0.3456	-0.7878	2	7	24	2	2021
+126	lifestyle	-0.9097	-0.451	4	22	48	3	2019.6667
+127	light	0.819	0.8154	9	13	40	2	2018
+128	limitation	-0.5556	-0.7909	6	8	13	2	2020
+129	lms	-0.4665	0.3397	1	42	112	5	2019.2
+130	lms data	-0.5321	0.2802	11	17	35	2	2018.5
+131	lms resource	-0.4612	0.173	11	10	60	4	2020
+132	loss	-0.3403	-0.0471	2	9	30	2	2021
+133	main objective	0.5211	0.3825	8	14	19	2	2017.5
+134	management system	-0.3906	0.1336	6	29	71	5	2019.4
+135	mathematical aptitude	0.9343	-0.8269	5	22	47	2	2020
+136	mathematics	0.6789	-0.7285	5	28	55	3	2019.6667
+137	methodology	0.3494	-0.4824	2	66	145	13	2019.7692
+138	ml algorithm	-0.3964	0.3537	1	31	102	4	2021
+139	mlr	0.0903	-0.1937	2	12	48	3	2018
+140	modeling technique	-0.1718	-0.3329	4	5	12	2	2019
+141	momentum	-0.4193	0.1181	2	17	27	2	2020.5
+142	multiclass prediction model	0.1414	-0.2461	2	9	20	2	2021
+143	multiple linear regression	0.0973	-0.2074	2	12	34	2	2018
+144	neural network model	-0.6858	-0.785	6	6	14	2	2019
+145	one	0.1805	-0.085	3	18	55	3	2018.3333
+146	online	-0.6261	0.3566	1	26	46	2	2021
+147	online learning	-0.3803	0.4761	1	43	163	8	2018.5
+148	output variable	-0.4183	-0.3336	6	14	43	3	2019.6667
+149	overall icfes score	0.9227	-0.8249	5	22	47	2	2020
+150	overview	-0.1832	0.4899	1	25	44	3	2018.3333
+151	paper work	0.1673	0.2386	10	9	30	2	2019
+152	pca	0.0882	-0.1966	2	18	50	4	2018.5
+153	percentage	-0.3857	0.3803	1	27	87	3	2020.3333
+154	perceptron	0.9222	-0.8288	5	22	47	2	2020
+155	perceptron algorithm	0.9318	-0.8299	5	22	47	2	2020
+156	performance metric	-0.394	-0.7334	6	2	8	4	2021
+157	phase machine	-0.9086	-0.2374	7	5	16	2	2021
+158	platform	-0.5002	0.3054	1	36	96	5	2020.4
+159	policy maker	-0.8631	-0.3915	4	26	54	2	2020.5
+160	polykernel	-0.3841	0.8753	1	8	32	2	2019
+161	practice	0.66	0.71	9	20	49	4	2018.5
+162	precision	-0.5165	0.0405	1	63	296	12	2020.5833
+163	prediccion	0.7484	-0.586	5	32	40	3	2020.3333
+164	predicting students performance	0.3768	0.579	8	10	15	2	2018.5
+165	predictive accuracy	0.1174	-0.2266	2	21	29	2	2019.5
+166	predictive model	-0.3206	0.5104	1	44	279	15	2020.3333
+167	predictive performance	0.0951	-0.2089	2	12	34	2	2018
+168	predictive system	-0.5444	-0.6004	4	7	24	3	2021
+169	prevalence	-0.8997	-0.4977	4	17	195	5	2021
+170	previous course	0.6238	0.1529	8	20	28	2	2019
+171	principal component analysis	0.0955	-0.2067	2	12	34	2	2018
+172	priori	0.7508	-0.5774	3	10	14	2	2020.5
+173	probability	0.206	-0.4788	2	12	29	3	2019.6667
+174	public university	0.6087	-0.2548	3	19	36	3	2019.3333
+175	public us university	-0.5813	-0.1081	7	6	16	2	2019
+176	python programming language classification algorithm	0.9246	-0.8317	5	22	47	2	2020
+177	quality test	-0.2438	0.1169	11	3	10	2	2019
+178	random tree	0.9083	0.0874	8	5	10	2	2019
+179	reappear	-1.3488	-1.0138	4	6	20	2	2020
+180	receiver operating characteristic	-0.7724	-0.4569	4	24	58	2	2020
+181	recommendation system	-0.2297	-0.1037	2	10	17	2	2021
+182	record	-0.2207	-0.0313	7	33	56	8	2019.125
+183	regression	-0.2778	-0.2582	2	78	202	15	2020.2667
+184	regression model	-0.1913	-0.1128	2	24	51	4	2019.75
+185	relational association rule	0.9573	0.4893	9	5	21	3	2019
+186	rendimiento academico	0.4709	-0.8925	2	9	28	7	2020.8571
+187	research study	0.8809	-0.613	5	27	54	3	2019.3333
+188	researcher	0.2714	0.4927	10	40	84	5	2020
+189	review	0.0904	0.5993	10	32	105	11	2019.6364
+190	risk student	-0.4062	0.3804	1	46	251	14	2019.2143
+191	s prar	0.9762	0.5016	9	5	16	2	2019
+192	sample	0.2075	-0.2473	3	29	48	5	2020.2
+193	selection method	0.7161	-0.6661	5	30	58	3	2020.3333
+194	self	-0.5098	0.4086	1	29	85	4	2018
+195	sensitivity	-0.8855	-0.5816	4	31	152	6	2020.5
+196	session	-0.3757	-0.2136	6	30	122	10	2019.2
+197	significant prognostic factor	-0.9529	-0.5258	4	17	84	2	2021
+198	simulated annealing	-0.8816	-0.0019	4	5	10	2	2021
+199	smart university	-0.6566	-0.1505	6	9	20	2	2020
+200	smote	0.1757	-0.085	2	20	30	2	2021
+201	social attitude	-0.5595	-0.6179	4	7	18	2	2021
+202	socio economic factor	0.7468	0.0203	8	6	12	2	2018
+203	specific survey	0.0441	0.7302	10	9	51	3	2021
+204	specificity	-0.857	-0.5801	4	35	161	6	2020.8333
+205	stakeholder	-0.7378	-0.3588	4	25	59	2	2021
+206	strength	-0.312	-0.4293	4	12	22	3	2019.6667
+207	stress	-0.8779	-0.4852	4	17	288	8	2021
+208	student dataset	0.731	0.7481	9	16	44	4	2018.5
+209	student dropout	-0.4413	0.5198	1	24	44	2	2021
+210	student exam performance prediction	-0.4873	0.3041	12	8	27	3	2020
+211	student grade prediction	0.1423	-0.2446	2	9	20	2	2021
+212	student interaction	-0.3175	0.4788	12	14	19	2	2020
+213	student performance analysis	0.0466	0.7576	10	9	36	2	2021
+214	student retention	-0.5574	-0.0281	7	10	13	2	2019
+215	students achievement	0.1659	0.66	8	16	47	4	2017.5
+216	students data	0.4149	0.3431	8	24	37	3	2018.3333
+217	students final gpa	1.0838	0.2779	8	7	16	2	2017
+218	students future development	-0.8251	0.6997	12	6	16	2	2021
+219	students knowledge level	-0.6199	0.6592	12	10	17	2	2021
+220	success rate	-0.7834	0.2334	11	5	21	3	2021
+221	support	-0.3972	0.4103	1	31	98	4	2020.5
+222	support vector classifier	0.1999	0.035	2	13	36	2	2021
+223	svm	-0.5775	-0.2535	4	48	135	9	2020.4444
+224	svms	-0.3983	-0.3019	6	9	28	2	2019
+225	systematic implementation	0.7153	-0.4715	3	4	8	2	2021
+226	temporal aspect	0.0486	0.756	10	9	36	2	2021
+227	test	-0.2872	0.2223	11	25	57	7	2020
+228	thing	0.2518	0.243	10	13	20	3	2019.3333
+229	thousand	-0.3492	0.4459	1	28	47	2	2019.5
+230	timely intervention	-0.4875	0.4912	1	22	78	2	2021
+231	total time	-0.3954	-0.3634	6	14	45	3	2020.3333
+232	traditional campuse	-0.5805	-0.1094	7	6	16	2	2019
+233	universidad distrital	0.9323	-0.8198	5	22	47	2	2020
+234	university student	-0.5916	-0.314	4	48	191	10	2020.3
+235	upper range	0.9286	-0.832	5	22	47	2	2020
+236	usage	-0.4812	0.2181	11	18	45	3	2020
+237	useful knowledge	0.9659	0.3512	8	12	15	2	2017
+238	video	-0.5139	0.682	12	12	17	2	2020.5
+239	video learning analytic	-0.1258	0.6231	12	6	14	2	2020
+240	vital role	0.6437	0.6813	9	18	28	3	2019
+241	wrapper	0.9303	-0.8242	5	22	47	2	2020

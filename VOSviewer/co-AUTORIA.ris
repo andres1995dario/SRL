@@ -1,0 +1,1584 @@
+TY  - JOUR
+AB  - This research study identifies variables that influence the prediction of performance in industrial engineering undergraduate students at the Universidad Distrital (Colombia) by three methodologies: filter, wrappers, and integrated. Python programming language classification algorithms such as decision tree, K nearest neighbors, and perceptron are implemented and they are compared to obtain the best prediction results. The results show that gender and the ICFES Score (Colombian nation-wide university admission exam) for mathematics were in the upper range in all the selection methods. The Perceptron algorithm is the most accurate of all the algorithms tested. It is concluded that the variables that most affect academic performance in engineering students are: age, gender, tuition fee, the overall ICFES score, and the ICFES scores for mathematical aptitude and cohort mathematics.
+AU  - Contreras, Leonardo E.
+AU  - Fuentes, Héctor J.
+AU  - Rodríguez, José I.
+AU  - Contreras, Leonardo E.
+AU  - Fuentes, Héctor J.
+AU  - Rodríguez, José I.
+DO  - 10.4067/S0718-50062020000500233
+IS  - 5
+KW  - academic performance
+KW  - analytics of data
+KW  - engineering education
+KW  - machine learning
+KW  - model
+PB  - Centro de Información Tecnológica
+PY  - 2020
+SP  - 233
+EP  - 246
+TI  - Predicción del rendimiento académico como indicador de éxito/fracaso de los estudiantes de ingeniería, mediante aprendizaje automático
+T2  - Formación universitaria
+UR  - http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-50062020000500233&lng=es&nrm=iso&tlng=e
+UR  - http://www.scielo.cl/scielo.php?script=sci_abstract&pid=S0718-50062020000500233&lng=es&nrm=iso&tlng=e
+VL  - 13
+ER  -
+TY  - JOUR
+AB  - The main aim of all the educational organizations is to improve the quality of education and elevate the academic performance of students. Educational Data Mining (EDM) is a growing research field which helps academic institutions to improve the performance of their students. The academic institutions are most often judged by the grades achieved by the students in examination. EDM offers different practices to predict the academic performance of students. In EDM, Feature Selection (FS) plays a vital role in improving the quality of prediction models for educational datasets. FS algorithms eliminate unrelated data from the educational repositories and hence increase the performance of classifier accuracy used in different EDM practices to support decision making for educational settings. The good quality of educational dataset can produce better results and hence the decisions based on such quality dataset can increase the quality of education by predicting the performance of students. In the light of this mentioned fact, it is necessary to choose a feature selection algorithm carefully. This paper presents an analysis of the performance of filter feature selection algorithms and classification algorithms on two different student datasets. The results obtained from different FS algorithms and classifiers on two student datasets with different number of features will also help researchers to find the best combinations of filter feature selection algorithms and classifiers. It is very necessary to put light on the relevancy of feature selection for student performance prediction, as the constructive educational strategies can be derived through the relevant set of features. The results of our study depict that there is a 10% difference of prediction accuracies between the results of datasets with different number of features.
+AU  - Zaffar, Maryam
+AU  - Hashmani, Manzoor Ahmed
+AU  - Savita, K. S.
+AU  - Rizvi, Syed Sajjad Hussain
+DO  - 10.14569/IJACSA.2018.090569
+IS  - 5
+KW  - CFS
+KW  - Classifiers
+KW  - Educational data mining
+KW  - Feature selection algorithms
+KW  - Relief feature selection algorithm
+PB  - Science and Information Organization
+PY  - 2018
+SP  - 541
+EP  - 549
+TI  - A study of feature selection algorithms for predicting students academic performance
+T2  - International Journal of Advanced Computer Science and Applications
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - JULIACA
+AU  - Rojas Pari, Rudy Jhean
+DA  - 2021/3//
+KW  - Aprendizaje automático supervisado
+KW  - Bajo rendimiento académico
+KW  - CRISP
+KW  - DM
+KW  - Data Mining
+KW  - Random Forest Classifier
+KW  - http://purl.org/pe
+KW  - repo/ocde/ford#2.02.04
+PB  - Universidad Peruana Unión
+PY  - 2021
+TI  - Modelo de Aprendizaje Automático Supervisado para Identificar Patrones de Bajo Rendimiento Académico en los Ingresantes al  Instituto de Educación Superior Pedagógico Público – Juliaca
+UR  - https://repositorio.upeu.edu.pe/handle/20.500.12840/4505
+ER  -
+TY  - JOUR
+AB  - Tesis
+AU  - Espinoza Airac, Gianira Xiomara
+AU  - León Muñoz, Eduar Fabián
+KW  - Algoritmos
+KW  - Aprendizaje automático
+KW  - Idiomas
+KW  - Machine Learning
+KW  - Modelo
+KW  - info:eu-repo/semantics/bachelorThesis
+PB  - Universidad Nacional del Santa
+PY  - 2020
+TI  - Modelo de Machine Learning para la clasificación de estudiantes de acuerdo a su rendimiento académico en el Centro de Idiomas de la Universidad Nacional del Santa
+T2  - Repositorio Institucional - UNS
+UR  - http://repositorio.uns.edu.pe/handle/UNS/3588
+ER  -
+TY  - JOUR
+AB  - Modelo de predicción del rendimiento académico para el curso de nivelación de la Escuela Politécnica Nacional _________________________________________________________________________________________________________________________ 1 1. INTRODUCCIÓN En la actualidad, el rendimiento académico de los estudiantes representa uno de los indicadores de calidad más importantes de la labor académica de las universidades (Garbanzo, 2013), y de este, principalmente en los Cursos de Nivelación (CN) o Propedéutico, depende la oferta académica de los centros de estudio. Para entrar en contexto, el rendimiento académico se define como el producto de la asimilación del contenido de los programas de estudio, expresado en calificaciones dentro de una escala convencional; es decir, se refiere al resultado cuantitativo que se obtiene en el proceso de aprendizaje de conocimientos, mediante evaluaciones y otras actividades que realiza el docente. Ya que es cuantificable, el rendimiento académico determina el nivel de conocimiento alcanzado por el estudiante, y es tomado como criterio para medir el éxito o fracaso a través de un sistema de calificaciones (Figueroa, 2014). El bajo rendimiento académico de los estudiantes en los primeros semestres universitarios es un problema que deben enfrentar las universidades en la actualidad. En este sentido, el alto porcentaje de reprobados por materias en semestres iniciales trae como consecuencia que se produzca una "barrera académica" que impide que la oferta de cupos sea la deseada, ya que no se puede en el corto plazo incrementar la planta docente para estas asignaturas, ni habilitar nuevos espacios físicos en las universidades (Valera y col., 2009). El presente trabajo busca entender el rendimiento de los estudiantes en el CN de la Escuela Politécnica Nacional; a la vez, se ajusta un modelo para predecir la probabilidad de reprobación de estos, tal que se pueda tomar acciones Resumen: En el presente proyecto se describe una metodología estadística basada en árboles de decisión y regresión logística donde el problema de aprendizaje se formula en términos de la minimización de la función de error mediante el método del descenso del gradiente, convirtiendo el problema de aprendizaje en un problema de optimización, como va siendo habitual. Para la metodología se toman en consideración variables socioeconómicas, demográficas, familiares, institucionales y de desempeño académico en la postulación y en el curso de nivelación que tiene un estudiante, con el fin de predecir la probabilidad de que dicho estudiante apruebe el curso en una ventana de tiempo anterior a la fecha de culminación del semestre. Adicionalmente, se implementa un algoritmo en el software estadístico R, el cual se encarga de realizar de manera automática cada uno de los pasos de la metodología descrita. Palabras clave: Rendimiento académico, regresión logística, árboles de decisión, función de error, método del descenso del gradiente, programación en R. Abstract: The purpose of this project is to describe a statistical methodology based on decision trees and logistic regression where the learning problem is formulated in terms of the error function minimization using the gradient descent method, turning the learning problem into an optimization problem. The considered variables for the methodology are socioeconomic, demographic, home-related, institutional and of academic performance in the admission exam and in the preparatory course, to predict the student's probability to approve the nivelation course in a time window prior to the end of the semester. Additionally, the algorithm is implemented in the statistical software R, which is responsible for automatically performing each of the steps of the described methodology.
+AU  - Flores, Miguel
+AU  - Calva, Karen
+IS  - 1
+KW  - Academic performance
+KW  - R programming
+KW  - decision trees
+KW  - error function
+KW  - gradient descent method
+KW  - logistic regression
+PY  - 2021
+SN  - 0000000272
+TI  - Modelo De Predicción Del Rendimiento Académico Para El Curso De Nivelación De La Escuela Politécnica Nacional a Partir De Un Modelo De Aprendizaje Supervisado Automatizado en R
+VL  - VIII
+ER  -
+TY  - JOUR
+AU  - Alcaraz, Raúl
+AU  - Rieta, José
+AU  - Martínez Rodrigo, Arturo
+AU  - Zangróniz, Roberto
+PY  - 2020
+SP  - 161
+EP  - 167
+TI  - Predicción Temprana del Fracaso en una Asignatura de Electrónica con Técnicas de Aprendizaje Automático
+ER  -
+TY  - JOUR
+AB  - El artículo tuvo como objetivo predecir el rendimiento académico de estudiantes de maestrías en educación, teniendo como autores principales a Camborda Zamudio (2014), Candia Oviedo (2019), Castrillón et al. (2020), Hussain et al. (2018), Yarlequé Wong (2019). Se empleó la técnica de árbol de decisión y minería de datos y herramientas que provee la inteligencia artificial para construir un modelo con el algoritmo J48 del software WEKA, teniendo en cuenta factores educacionales, familiares, socioeconómicos, de hábitos y costumbres. La muestra estuvo constituida por 237 estudiantes de una universidad pública en Perú, obteniendo mediante el coeficiente Kappa de Cohen un nivel de acierto del 66%. Los resultados dan cuenta de una metodología capaz de entrenar un sistema para clasificar a un estudiante, a partir de una de las categorías del rendimiento académico. Esta clasificación puede identificar a priori a los estudiantes con posibles problemas de rendimiento académico. Como resultado de ello, las medidas de acompañamiento y mitigación se pueden implementar de inmediato.
+Palabras clave: rendimiento académico; árbol de decisión; minería de datos; predicción; software WEKA
+AU  - Díaz-Landa, Brenda
+AU  - Meleán-Romero, Rosana
+AU  - Marín-Rodriguez, William
+DO  - 10.36390/telos233.08
+IS  - 3
+KW  - Ciencias sociales
+KW  - Ciencias sociales. Generalidades
+PB  - Universidad Rafael Belloso Chacín
+PY  - 2021
+SP  - 616
+EP  - 639
+TI  - Rendimiento académico de estudiantes en Educación Superior: predicciones de factores influyentes a partir de árboles de decisión
+T2  - Telos: Revista de Estudios Interdisciplinarios en Ciencias Sociales, ISSN-e 1317-0570, Vol. 23, Nº. 3, 2021 (Ejemplar dedicado a: September-December 2021), págs. 616-639
+UR  - https://dialnet.unirioja.es/servlet/articulo?codigo=8133982&info=resumen&idioma=SPA
+UR  - https://dialnet.unirioja.es/servlet/articulo?codigo=8133982&info=resumen&idioma=ENG
+UR  - https://dialnet.unirioja.es/servlet/articulo?codigo=8133982
+VL  - 23
+ER  -
+TY  - JOUR
+AB  - Predecir los resultados académicos de los estudiantes permite al docente buscar técnicas y estrategias en el tiempo indicado durante el proceso de enseñanza y aprendizaje con el fin de mejorar el logro de competencias en sus estudiantes. En esta investigación se implementó una red neuronal artificial (RNA) para predecir los resultados académicos del curso de física de los estudiantes del II ciclo de la carrera profesional de Ingeniería Civil de la universidad Nacional Intercultural Fabiola Salazar Leguía de Bagua-Perú en función de datos históricos. La RNA se diseñó e implemento en el Software MATLAB, su arquitectura está formada por una capa de entrada, una capa oculta y una capa de salida, para el entrenamiento de la RNA se utilizó dos algoritmos que posee la Toolbox de MATLAB: el Scaled Conjugate Gradient logrando un porcentaje de predicción del 70% y el Levenberg-Marquardt logrando un porcentaje de predicción 86%.
+AU  - Incio Flores, Fernando Alain
+AU  - Capuñay Sanchez, Dulce Lucero
+AU  - Estela Urbina, Ronald Omar
+AU  - Delgado Soto, Jorge Antonio
+AU  - Vergara Medrano, Segundo Edilberto
+DA  - 2021/5//
+DO  - 10.47796/VES.V10I1.464
+IS  - 1
+PB  - Universidad Privada de Tacna
+PY  - 2021
+SP  - 107
+EP  - 117
+TI  - Diseño e implementación de una red neuronal artificial para predecir el rendimiento académico en estudiantes de Ingeniería Civil de la UNIFSLB
+T2  - REVISTA VERITAS ET SCIENTIA - UPT
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - La deserción escolar involucra diversos factores, entre ellos, el compromiso del estudiante, a través del cual se puede predecir su éxito en la escuela. Ese compromiso tiene varios componentes, tales como conductual, emocional y cognitivo. La motivación y el compromiso están fuertemente relacionadas, ya que la primera es un precursor del compromiso. El objetivo de este estudio fue comparar la eficacia de la regresión lineal contra dos técnicas de minería de datos para predecir el rendimiento académico de los estudiantes en la educación superior. Se hizo un estudio transversal explicativo en el que se encuestó a 222 estudiantes universitarios de una institución pública de la Ciudad de México. Se realizó un análisis de regresión lineal jerárquico (RL) y de técnicas de analítica del aprendizaje, como redes neuronales (RN) y máquinas de vector soporte (SVM). Para evaluar la exactitud de las técnicas de analítica del aprendizaje se realizó un análisis de varianza (ANOVA). Se compararon las técnicas de analítica del aprendizaje y de regresión lineal usando la validación cruzada. Los resultados mostraron que el compromiso conductual y la autoeficacia tuvieron efectos positivos en el desempeño del estudiante, mientras que la pasividad mostró un efecto negativo. Asimismo, las técnicas de RL y de SVM pronosticaron igualmente el desempeño académico de los estudiantes. La RL tuvo la ventaja de producir un modelo simple y de fácil interpretación. Por el contrario, la técnica de SVM generó un modelo más complejo, aunque, si el modelo tuviese como objetivo el pronóstico del desempeño, la técnica SVM sería la más adecuada, ya que no requiere la verificación de ningún supuesto estadístico.
+AU  - Acosta-Gonzaga, Elizabeth
+AU  - Ramirez-Arellano, Aldo
+AU  - Acosta-Gonzaga, Elizabeth
+AU  - Ramirez-Arellano, Aldo
+DA  - 2020/8//
+DO  - 10.29059/CIENCIAUAT.V15I1.1392
+IS  - 1
+KW  - academic achievements
+KW  - learning ana-lytics
+KW  - student engagement
+KW  - student mo-tivation
+PB  - Universidad Autónoma de Tamaulipas
+PY  - 2020
+SP  - 63
+EP  - 74
+TI  - Estudio comparativo de técnicas de analítica del aprendizaje para predecir el rendimiento académico de los estudiantes de educación superior
+T2  - CienciaUAT
+UR  - http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-78582020000200063&lng=es&nrm=iso&tlng=es
+UR  - http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S2007-78582020000200063&lng=es&nrm=iso&tlng=es
+VL  - 15
+ER  -
+TY  - JOUR
+AB  - The present work proposes the application of machine learning techniques to predict the final grades (FGs) of students based on their historical performance of grades. The proposal was applied to the historical academic information available for students enrolled in the computer engineering degree at an Ecuadorian university. One of the aims of the university's strategic plan is the development of a quality education that is intimately linked with sustainable development goals (SDGs). The application of technology in teaching-learning processes (Technology-enhanced learning) must become a key element to achieve the objective of academic quality and, as a consequence, enhance or benefit the common good. Today, both virtual and face-to-face educational models promote the application of information and communication technologies (ICT) in both teaching-learning processes and academic management processes. This implementation has generated an overload of data that needs to be processed properly in order to transform it into valuable information useful for all those involved in the field of education. Predicting a student's performance from their historical grades is one of the most popular applications of educational data mining and, therefore, it has become a valuable source of information that has been used for different purposes. Nevertheless, several studies related to the prediction of academic grades have been developed exclusively for the benefit of teachers and educational administrators. Little or nothing has been done to show the results of the prediction of the grades to the students. Consequently, there is very little research related to solutions that help students make decisions based on their own historical grades. This paper proposes a methodology in which the process of data collection and pre-processing is initially carried out, and then in a second stage, the grouping of students with similar patterns of academic performance was carried out. In the next phase, based on the identified patterns, the most appropriate supervised learning algorithm was selected, and then the experimental process was carried out. Finally, the results were presented and analyzed. The results showed the effectiveness of machine learning techniques to predict the performance of students.
+AU  - Buenaño-Fernández, Diego
+AU  - Gil, David
+AU  - Luján-Mora, Sergio
+DA  - 2019/5//
+DO  - 10.3390/SU11102833
+IS  - 10
+KW  - Big data
+KW  - Educational data mining
+KW  - Learning analytics
+KW  - Machine learning
+KW  - Prediction grades
+PB  - MDPI
+PY  - 2019
+TI  - Application of machine learning in predicting performance for computer engineering students: A case study
+T2  - Sustainability (Switzerland)
+VL  - 11
+ER  -
+TY  - JOUR
+AU  - Tapia Sucapuca, Jhampier
+KW  - Arboles de Decisión
+KW  - Clasificador Bayesiano
+KW  - Clasificador basado en Bosques Aleatorios
+KW  - Datos desbalanceados
+KW  - Deserción Estudiantil
+KW  - Minería de Datos
+KW  - Modelo de Aprendizaje Automatizado
+KW  - Técnicas de Remuestreo
+KW  - Validación Cruzada
+KW  - Variables Ficticias
+KW  - https://purl.org/pe
+KW  - repo/ocde/ford#2.02.04
+KW  - Área bajo la curva ROC
+PB  - Universidad Nacional de San Agustín de Arequipa
+PY  - 2021
+TI  - Modelo predictivo de clasificación basado en aprendizaje automatizado para la detección temprana de posibles estudiantes universitarios desertantes
+T2  - Universidad Nacional de San Agustín de Arequipa
+UR  - http://repositorio.unsa.edu.pe/handle/20.500.12773/13409
+ER  -
+TY  - JOUR
+AB  - DEPARTAMENTO DE MATEM´ATICAMATEM´ MATEM´ATICA, ESTAD´ISTICAESTAD´ESTAD´ISTICA Y ACTUARIALES LICENCIATURA EN MATEM´ATICAMATEM´ MATEM´ATICA MONOGRAF´IAMONOGRAF´MONOGRAF´IA PARA OPTAR AL T ´ ITULO DE LICENCIATURA EN MATEM´ATICAMATEM´ MATEM´ATICA REDES NEURONALES ARTIFICIALES PARA LA CLASIFICACI´ONCLASIFICACI´ CLASIFICACI´ON DEL RENDIMIENTO ACADÉMICOACAD´ACADÉMICO DE ESTUDIANTES DE LA FACULTAD DE CIENCIAS Y TECNOLOG´IATECNOLOG´TECNOLOG´IA DE LA UNAN-LÉ ON 2011-2018
+AU  - Martínez Espinal, Albert Alonso
+AU  - Palma Sandoval, Jackson Ulises
+AU  - Ordoñez Rivera, Nestor Adrian
+PY  - 2021
+TI  - Redes Neuronales Artificiales para la Clasificación del rendimiento académico de estudiantes de la Facultad de Ciencias y Tecnología de La Unan-León 2011-2018
+ER  -
+TY  - JOUR
+AB  - Maestría en Ingeniería
+AU  - Camargo García, Aníbal José
+KW  - Clasificación
+KW  - Classification
+KW  - Data mining
+KW  - Decision tree
+KW  - Deserción
+KW  - Dropout
+KW  - Educación superior
+KW  - Higher education
+KW  - Minería de datos
+KW  - Predicción
+KW  - Prediction
+KW  - masterThesis
+KW  - Árboles de decisión
+PB  - Corporación Universidad de la Costa
+PY  - 2020
+TI  - Modelo para la predicción de la deserción de estudiantes de pregrado, basado en técnicas de minería de datos
+UR  - https://repositorio.cuc.edu.co/handle/11323/7077
+ER  -
+TY  - JOUR
+AB  - As enrollments and class sizes in postsecondary institutions have increased, instructors have sought automated and lightweight means to identify students who are at risk of performing poorly in a course. This identification must be performed early enough in the term to allow instructors to assist those students before they fall irreparably behind. This study describes a modeling methodology that predicts student final exam scores in the third week of the term by using the clicker data that is automatically collected for instructors when they employ the Peer Instruction pedagogy. The modeling technique uses a support vector machine binary classifier, trained on one term of a course, to predict outcomes in the subsequent term. We applied this modeling technique to five different courses across the computer science curriculum, taught by three different instructors at two different institutions. Our modeling approach includes a set of strengths not seen wholesale in prior work, while maintaining competitive levels of accuracy with that work. These strengths include using a lightweight source of student data, affording early detection of struggling students, and predicting outcomes across terms in a natural setting (different final exams, minor changes to course content), across multiple courses in a curriculum, and across multiple institutions.
+AU  - Liao, Soohyun Nam
+AU  - Zingaro, Daniel
+AU  - Thai, Kevin
+AU  - Alvarado, Christine
+AU  - Griswold, William G.
+AU  - Porter, Leo
+DA  - 2019/1//
+DO  - 10.1145/3277569
+IS  - 3
+KW  - At-risk students
+KW  - Clicker data
+KW  - Cross-term
+KW  - Machine learning
+KW  - Multiinstitution
+KW  - Peer instruction
+KW  - Prediction
+PB  - Association for Computing Machinery
+PY  - 2019
+TI  - A robust machine learning technique to predict low-performing students
+T2  - ACM Transactions on Computing Education
+VL  - 19
+ER  -
+TY  - JOUR
+AB  - Today, predictive analytics applications became an urgent desire in higher educational institutions. Predictive analytics used advanced analytics that encompasses machine learning implementation to derive high-quality performance and meaningful information for all education levels. Mostly know that student grade is one of the key performance indicators that can help educators monitor their academic performance. During the past decade, researchers have proposed many variants of machine learning techniques in education domains. However, there are severe challenges in handling imbalanced datasets for enhancing the performance of predicting student grades. Therefore, this paper presents a comprehensive analysis of machine learning techniques to predict the final student grades in the first semester courses by improving the performance of predictive accuracy. Two modules will be highlighted in this paper. First, we compare the accuracy performance of six well-known machine learning techniques namely Decision Tree (J48), Support Vector Machine (SVM), Naïve Bayes (NB), K-Nearest Neighbor (kNN), Logistic Regression (LR) and Random Forest (RF) using 1282 real student's course grade dataset. Second, we proposed a multiclass prediction model to reduce the overfitting and misclassification results caused by imbalanced multi-classification based on oversampling Synthetic Minority Oversampling Technique (SMOTE) with two features selection methods. The obtained results show that the proposed model integrates with RF give significant improvement with the highest f-measure of 99.5%. This proposed model indicates the comparable and promising results that can enhance the prediction performance model for imbalanced multi-classification for student grade prediction.
+AU  - Bujang, Siti Dianah Abdul
+AU  - Selamat, Ali
+AU  - Ibrahim, Roliana
+AU  - Krejcar, Ondrej
+AU  - Herrera-Viedma, Enrique
+AU  - Fujita, Hamido
+AU  - Ghani, Nor Azura Md
+DO  - 10.1109/ACCESS.2021.3093563
+KW  - Machine learning
+KW  - imbalanced problem
+KW  - multi-class classification
+KW  - predictive model
+KW  - student grade prediction
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SP  - 95608
+EP  - 95621
+TI  - Multiclass Prediction Model for Student Grade Prediction Using Machine Learning
+T2  - IEEE Access
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - Student success plays a vital role in educational institutions, as it is often used as a metric for the institution’s performance. Early detection of students at risk, along with preventive measures, can drastically improve their success. Lately, machine learning techniques have been extensively used for prediction purpose. While there is a plethora of success stories in the literature, these techniques are mainly accessible to “computer science”, or more precisely, “artificial intelligence” literate educators. Indeed, the effective and efficient application of data mining methods entail many decisions, ranging from how to define student’s success, through which student attributes to focus on, up to which machine learning method is more appropriate to the given problem. This study aims to provide a step-by-step set of guidelines for educators willing to apply data mining techniques to predict student success. For this, the literature has been reviewed, and the state-of-the-art has been compiled into a systematic process, where possible decisions and parameters are comprehensively covered and explained along with arguments. This study will provide to educators an easier access to data mining techniques, enabling all the potential of their application to the field of education.
+AU  - Alyahyan, Eyman
+AU  - Düştegör, Dilek
+DA  - 2020/12//
+DO  - 10.1186/S41239-020-0177-7
+IS  - 1
+KW  - Data mining
+KW  - Guidelines
+KW  - Higher education
+KW  - Prediction
+KW  - Review
+KW  - Student success
+PB  - Springer
+PY  - 2020
+TI  - Predicting academic success in higher education: literature review and best practices
+T2  - International Journal of Educational Technology in Higher Education
+VL  - 17
+ER  -
+TY  - JOUR
+AB  - Educational data mining is the process of applying data mining tools and techniques to analyze data at educational institutions. In this paper, we used educational data mining to predict students' final GPA based on their grades in previous courses. In our case study, we collected students' transcript data that included their final GPA and their grades in all courses. After pre-processing the data, we applied the J48 decision tree algorithm to discover classification rules. We extracted useful knowledge for final GPA, and identify the most important courses in the students' study plan based on their grades in the mandatory courses.
+AU  - Al-Barrak, Mashael A.
+AU  - Al-Razgan, Muna
+DO  - 10.7763/IJIET.2016.V6.745
+IS  - 7
+PB  - EJournal Publishing
+PY  - 2017
+SP  - 528
+EP  - 533
+TI  - Predicting Students Final GPA Using Decision Trees: A Case Study
+T2  - International Journal of Information and Education Technology
+VL  - 6
+ER  -
+TY  - JOUR
+AB  - Data mining in education is an emerging multidiscipline research field especially with the upsurge of new technologies used in educational systems that led to the storage of massive student data. This study used classification, a data mining process, in evaluating computer engineering student's data to identify students who need academic counseling in the subject. There were five attributes considered in building the classification model. The decision tree was chosen as the classifier for the model. The accuracy of the decision tree algorithms, Random Tree, RepTree and J48, were compared using cross-validation wherein Random Tree returned the highest accuracy of 75.188%. Waikato Environment for Knowledge Analysis (WEKA) data mining tool was used in generating the classification model. The classification rules extracted from the decision tree was used in the algorithm of the Research Project Grade Predictor application which was developed using Visual C#. The application will help research instructors or advisers to easily identify students who need more attention because they are predicted to have low grades.
+AU  - Abana, Ertie C.
+DO  - 10.14569/IJACSA.2019.0100739
+IS  - 7
+KW  - Classification rules
+KW  - Data mining
+KW  - Decision tree
+KW  - Educational data mining
+KW  - WEKA
+PB  - Science and Information Organization
+PY  - 2019
+SP  - 285
+EP  - 289
+TI  - A decision tree approach for predicting student grades in Research Project using Weka
+T2  - International Journal of Advanced Computer Science and Applications
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - The student’s performance prediction is an important research topic because it can help teachers prevent students from dropping out before final exams and identify students that need additional assistance. The objective of this study is to predict the difficulties that students will encounter in a subsequent digital design course session. We analyzed the data logged by a technology-enhanced learning (TEL) system called digital electronics education and design suite (DEEDS) using machine learning algorithms. The machine learning algorithms included an artificial neural networks (ANNs), support vector machines (SVMs), logistic regression, Naïve bayes classifiers and decision trees. The DEEDS system allows students to solve digital design exercises with different levels of difficulty while logging input data. The input variables of the current study were average time, total number of activities, average idle time, average number of keystrokes and total related activity for each exercise during individual sessions in the digital design course; the output variables were the student(s) grades for each session. We then trained machine learning algorithms on the data from the previous session and tested the algorithms on the data from the upcoming session. We performed k-fold cross-validation and computed the receiver operating characteristic and root mean square error metrics to evaluate the models’ performances. The results show that ANNs and SVMs achieve higher accuracy than do other algorithms. ANNs and SVMs can easily be integrated into the TEL system; thus, we would expect instructors to report improved student’s performance during the subsequent session.
+AU  - Hussain, Mushtaq
+AU  - Zhu, Wenhao
+AU  - Zhang, Wu
+AU  - Abidi, Syed Muhammad Raza
+AU  - Ali, Sadaqat
+DA  - 2019/6//
+DO  - 10.1007/S10462-018-9620-8
+IS  - 1
+KW  - Decision support tools
+KW  - E-learning
+KW  - Educational data mining (EDM)
+KW  - Machine learning
+KW  - Neural networks (NN)
+KW  - Support vector machine (SVM)
+PB  - Springer Netherlands
+PY  - 2019
+SP  - 381
+EP  - 407
+TI  - Using machine learning to predict student difficulties from learning session data
+T2  - Artificial Intelligence Review
+VL  - 52
+ER  -
+TY  - JOUR
+AB  - Technology and innovation empower higher educational institutions (HEI) to use different types of learning systems-video learning is one such system. Analyzing the footprints left behind from these online interactions is useful for understanding the effectiveness of this kind of learning. Video-based learning with flipped teaching can help improve student's academic performance. This study was carried out with 772 examples of students registered in e-commerce and e-commerce technologies modules at an HEI. The study aimed to predict student's overall performance at the end of the semester using video learning analytics and data mining techniques. Data from the student information system, learning management system and mobile applications were analyzed using eight different classification algorithms. Furthermore, data transformation and preprocessing techniques were carried out to reduce the features. Moreover, genetic search and principle component analysis were carried out to further reduce the features. Additionally, the CN2 Rule Inducer and multivariate projection can be used to assist faculty in interpreting the rules to gain insights into student interactions. The results showed that Random Forest accurately predicted successful students at the end of the class with an accuracy of 88.3% with an equal width and information gain ratio.
+AU  - Hasan, Raza
+AU  - Palaniappan, Sellappan
+AU  - Mahmood, Salman
+AU  - Abbas, Ali
+AU  - Sarker, Kamal Uddin
+AU  - Sattar, Mian Usman
+DA  - 2020/6//
+DO  - 10.3390/APP10113894
+IS  - 11
+KW  - Classification algorithms
+KW  - Data mining
+KW  - Data preprocessing
+KW  - Data transformation
+KW  - Student academic performance
+KW  - Video learning analytics
+PB  - MDPI AG
+PY  - 2020
+TI  - Predicting student performance in higher educational institutions using video learning analytics and data mining techniques
+T2  - Applied Sciences (Switzerland)
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - Predicting students' academic performance at an early stage of a semester is one of the most crucial research topics in the field of Educational Data Mining (EDM). Students are facing various difficulties in courses like 'Programming' and 'Data Structures' through undergraduate programs, which is why failure and dropout rates in these courses are high. Therefore, EDM is used to analyze students' data gathered from various educational settings to predict students' academic performance, which would help them to achieve better results in their future courses. The main goal of this paper is to explore the efficiency of deep learning in the field of EDM, especially in predicting students' academic performance, to identify students at risk of failure. A dataset collected from a public 4-year university was used in this study to develop predictive models to predict students' academic performance of upcoming courses given their grades in the previous courses of the first academic year using a deep neural network (DNN), decision tree, random forest, gradient boosting, logistic regression, support vector classifier, and K-nearest neighbor. In addition, we made a comparison between various resampling methods to solve the imbalanced dataset problem, such as SMOTE, ADASYN, ROS, and SMOTE-ENN. From the experimental results, it is observed that the proposed DNN model can predict students' performance in a data structure course and can also identify students at risk of failure at an early stage of a semester with an accuracy of 89%, which is higher than models like decision tree, logistic regression, support vector classifier, and K-nearest neighbor.
+AU  - Nabil, Aya
+AU  - Seyam, Mohammed
+AU  - Abou-Elfetouh, Ahmed
+DO  - 10.1109/ACCESS.2021.3119596
+KW  - Deep neural networks
+KW  - educational data mining
+KW  - imbalanced dataset problem
+KW  - machine learning
+KW  - predicting students' performance
+KW  - resampling methods
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SP  - 140731
+EP  - 140746
+TI  - Prediction of Students' Academic Performance Based on Courses' Grades Using Deep Neural Networks
+T2  - IEEE Access
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - Predicting students' performance is one of the most important topics for learning contexts such as schools and universities, since it helps to design effective mechanisms that improve academic results and avoid dropout, among other things. These are benefited by the automation of many processes involved in usual students' activities which handle massive volumes of data collected from software tools for technology-enhanced learning. Thus, analyzing and processing these data carefully can give us useful information about the students' knowledge and the relationship between them and the academic tasks. This information is the source that feeds promising algorithms and methods able to predict students' performance. In this study, almost 70 papers were analyzed to show different modern techniques widely applied for predicting students' performance, together with the objectives they must reach in this field. These techniques and methods, which pertain to the area of Artificial Intelligence, are mainly Machine Learning, Collaborative Filtering, Recommender Systems, and Artificial Neural Networks, among others.
+AU  - Rastrollo-Guerrero, Juan L.
+AU  - Gómez-Pulido, Juan A.
+AU  - Durán-Domínguez, Arturo
+DA  - 2020/2//
+DO  - 10.3390/APP10031042
+IS  - 3
+KW  - Artificial neural networks
+KW  - Collaborative filtering
+KW  - Deep learning
+KW  - Dropout
+KW  - Machine learning
+KW  - Prediction
+KW  - Recommender systems
+KW  - Students' performance
+KW  - Supervised learning
+KW  - Unsupervised learning
+PB  - MDPI AG
+PY  - 2020
+TI  - Analyzing and predicting students' performance by means of machine learning: A review
+T2  - Applied Sciences (Switzerland)
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - Predicting students performance becomes more challenging due to the large volume of data in educational databases. Currently in Malaysia, the lack of existing system to analyze and monitor the student progress and performance is not being addressed. There are two main reasons of why this is happening. First, the study on existing prediction methods is still insufficient to identify the most suitable methods for predicting the performance of students in Malaysian institutions. Second is due to the lack of investigations on the factors affecting students achievements in particular courses within Malaysian context. Therefore, a systematical literature review on predicting student performance by using data mining techniques is proposed to improve students achievements. The main objective of this paper is to provide an overview on the data mining techniques that have been used to predict students performance. This paper also focuses on how the prediction algorithm can be used to identify the most important attributes in a students data. We could actually improve students achievement and success more effectively in an efficient way using educational data mining techniques. It could bring the benefits and impacts to students, educators and academic institutions.
+AU  - Shahiri, Amirah Mohamed
+AU  - Husain, Wahidah
+AU  - Rashid, Nur'Aini Abdul
+DO  - 10.1016/J.PROCS.2015.12.157
+KW  - Student performance
+KW  - educational data mining
+KW  - performance prediction
+PB  - Elsevier B.V.
+PY  - 2017
+SP  - 414
+EP  - 422
+TI  - A Review on Predicting Student's Performance Using Data Mining Techniques
+T2  - Procedia Computer Science
+VL  - 72
+ER  -
+TY  - JOUR
+AB  - Due to the current situation with Coronavirus (COVID-19) the attendance of students in the academic life has changed and the educational process has been driven towards smart educational environments. Higher educational Institutes invest significant resources in reforming their educational programs so that it will support distance learning using asynchronous or synchronous method-ologies and tools. In this work, we propose the development of a student profile using data from both asynchronous and synchronous e-learning platforms, using a multi-layered neural network in order to classify students' performance. A neural network is compared against Support Vector Machines, k-Nearest Neighbour and decision trees. The results indicate that the Neural network achieves better accuracy than the others, so using our methodology the instructors or the policy makers of the institute will be able to keep informed about the performance of the students, or take the appropriate actions in order to prevent student failure or low participation. CCS CONCEPTS • Information systems → Information systems applications; Data mining.
+AU  - Chytas, Konstantinos
+AU  - Tsolakidis, Anastasios
+AU  - Karanikolas, Nikitas N
+AU  - Skourlas, Christos
+CY  - New York, NY, USA
+DO  - 10.1145/3437120
+KW  - Academic Performance
+KW  - Neural Networks
+KW  - Predictive Models
+KW  - Students' Profile
+PB  - ACM
+PY  - 2020
+SN  - 9781450388979
+TI  - An integrated system for predicting students' academic performance in smart universities; An integrated system for predicting students' academic performance in smart universities
+T2  - 24th Pan-Hellenic Conference on Informatics
+UR  - https://doi.org/10.1145/3437120.3437353
+ER  -
+TY  - JOUR
+AB  - For a productive and a good life, education is a necessity and it improves individuals' life with value and excellence. Also, education is considered a vital need for motivating self-assurance as well as providing the things are needed to partake in today's World. Throughout the years, education faced a number of challenges. Different methods of teaching and learning are suggested to increase the learning quality. In today's world, computers and portable devices are employed in every phase of daily life and many materials are available online anytime, anywhere. Technologies like Artificial Intelligence had a surprising evolution in many fields especially in educational teaching and learning processes. Higher education institutions have started to adopt the use of technology into their traditional teaching mechanisms for enhancing learning and teaching. In this paper, two datasets have been considered for the prediction and classification of student performance respectively using five machine learning algorithms. Eighteen experiments have been performed and preliminary results suggest that performances of students might be predictable and classification of these performances can be increased by applying pre-processing to the raw data before implementing machine learning algorithms. CCS Concepts •Computing methodologies➝ Machine learning➝ Machine learning approaches➝ Neural networks
+AU  - Sekeroglu, Boran
+AU  - Dimililer, Kamil
+AU  - Tuncal, Kubra
+CY  - New York, NY, USA
+DO  - 10.1145/3318396
+KW  - Educational Evaluation
+KW  - classification
+KW  - machine learning
+KW  - prediction
+PB  - ACM
+PY  - 2019
+SN  - 9781450362672
+TI  - Student Performance Prediction and Classification Using Machine Learning Algorithms
+T2  - Proceedings of the 2019 8th International Conference on Educational and Information Technology
+UR  - http://doi.org/10.1145/3318396.3318419
+ER  -
+TY  - JOUR
+AB  - Elements of applied statistics and computer science are quickly integrating and being applied to a diverse set of problems in academia and industry. Here I explore the potential value of this multidisciplinary approach to applications in higher education by applying it to forecasting course level outcomes for individual students at all of Penn State's campuses. Utilizing hundreds of data sources on individual students, ranging from past performance to current course engagement, I demonstrate the potential accuracy of forecasting techniques at identifying high risk students early in the course term. Our preliminary results suggest that %50 of students that earned a D or F in 2015 could have been identified prior to the start of the course.
+AU  - Wham, Drew
+CY  - New York, NY, USA
+DO  - 10.1145/3027385
+KW  - CCS Concepts Computing methodologies~Machine learn
+KW  - Feature Finding
+KW  - Modeling
+KW  - Scalability
+KW  - Student Success
+PB  - ACM
+PY  - 2019
+SN  - 9781450348706
+TI  - Forecasting Student Outcomes at University-Wide Scale Using Machine Learning
+T2  - Proceedings of the Seventh International Learning Analytics & Knowledge Conference
+UR  - http://dx.doi.org/10.1145/3027385.3029467
+ER  -
+TY  - JOUR
+AB  - Educational Data Mining (EDM) and Learning Analytics (LA) research have emerged as interesting areas of research, which are unfolding useful knowledge from educational databases for many purposes such as predicting students' success. The ability to predict a student's performance can be beneficial for actions in modern educational systems. Existing methods have used features which are mostly related to academic performance, family income and family assets; while features belonging to family expenditures and students' personal information are usually ignored. In this paper, an effort is made to investigate aforementioned feature sets by collecting the scholarship holding students' data from different universities of Pakistan. Learning analytics, discriminative and generative classification models are applied to predict whether a student will be able to complete his degree or not. Experimental results show that proposed method significantly outperforms existing methods due to exploitation of family expenditures and students' personal information feature sets. Outcomes of this EDM/LA research can serve as policy improvement method in higher education.
+AU  - Daud, Ali
+AU  - Lytras, Miltiadis D.
+AU  - Aljohani, Naif Radi
+AU  - Abbas, Farhat
+AU  - Abbasi, Rabeeh Ayaz
+AU  - Alowibdi, Jalal S.
+DO  - 10.1145/3041021.3054164
+KW  - Educational data mining (EDM)
+KW  - Family expenditures
+KW  - Learning analytics (LA)
+KW  - Student performance prediction
+KW  - Students personal information
+PB  - International World Wide Web Conferences Steering Committee
+PY  - 2017
+SN  - 9781450349147
+SP  - 415
+EP  - 421
+TI  - Predicting student performance using advanced learning analytics
+T2  - 26th International World Wide Web Conference 2017, WWW 2017 Companion
+UR  - http://dx.doi.org/10.1145/3041021.3054164
+ER  -
+TY  - JOUR
+AB  - The web-based application consists of an interactive dashboard to allow the user to visualize the prediction results which can be view using different types of charts all to the user's convenience. This study managed to attain its main object of creating a student graduation prediction system for the school of computing and the sub-objective were also met. The predictions of this study were purely based on the students' academic results in the form of credit scores and other factors were not considered. This study recommends that further research should be done with actual student data from the university's student database records that stretches for over a longer period, say about 5 to 10 years.
+AU  - Suresh, Nalina
+AU  - Hashiyana, Valerianus
+AU  - Nhinda, Gabriel Tuhafeni
+AU  - Stephanus, Ismael
+AU  - Kautwima, Paulus
+CY  - New York, NY, USA
+DA  - 2021/8//
+DO  - 10.1145/3484824.3484873
+KW  - Insert keyword text
+PB  - ACM
+PY  - 2021
+SN  - 9781450387637
+SP  - 317
+EP  - 327
+TI  - Graduates' Prediction System Using Artificial Intelligence
+T2  - Proceedings of the International Conference on Data Science, Machine Learning and Artificial Intelligence
+UR  - https://dl.acm.org/doi/10.1145/3484824.3484873
+ER  -
+TY  - JOUR
+AB  - The study project named "Effects of Co-Curricular Activities on Student's Academic Performance Through Machine Learning" examines the effect of co-curricular activities on a student's academic performance. The purpose of this study is to determine the relationship between extracurricular activities and student performance. Co-curricular activities are extracurricular activities that support and enhance the academic or core curriculum. They are a vital component of educational institutions' attempts to help students develop their personalities and improve classroom learning. However, a significant proportion of pupils in Bangladesh do not participate in such activities. One of the primary reasons is because many believe these activities would jeopardize a student's academic performance. This study's objective is to ascertain the actual effect of co-curricular activities on pupils. It was discovered that there is a positive correlation between co-curricular activities and academic performance using Logistic Regression using Python and Google Colab.
+AU  - Rahman, Shaikh Rezwan
+AU  - Islam, Md. Asfiul
+AU  - Akash, Pritidhrita Paul
+AU  - Parvin, Masuma
+AU  - Moon, Nazmun Nessa
+AU  - Nur, Fernaz Narin
+DA  - 2021/11//
+DO  - 10.1016/J.CRBEHA.2021.100057
+PB  - Elsevier
+PY  - 2021
+SP  - 100057
+EP  - 100057
+TI  - Effects of co-curricular activities on student's academic performance by machine learning
+T2  - Current Research in Behavioral Sciences
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - Artificial intelligence is based on algorithms that enable machines to make decisions instead of humans. This technology improves user experiences in a variety of areas. In this paper we discuss an intelligent solution to predict the performance of Moroccan students in the region of Guelmim Oued Noun through a recommendation system using artificial intelligence techniques during the COVID-19.
+AU  - Tarik, Ahajjam
+AU  - Aissa, Haidar
+AU  - Yousef, Farhaoui
+DA  - 2021/1//
+DO  - 10.1016/J.PROCS.2021.03.104
+KW  - Artificial intelligent
+KW  - COVID-19
+KW  - Data analysis
+KW  - Data science
+KW  - High school
+KW  - Machine learning
+KW  - Prediction
+KW  - Recommendation
+PB  - Elsevier
+PY  - 2021
+SP  - 835
+EP  - 840
+TI  - Artificial Intelligence and Machine Learning to Predict Student Performance during the COVID-19
+T2  - Procedia Computer Science
+VL  - 184
+ER  -
+TY  - JOUR
+AB  - In the area of machine learning and data science, decision tree learning is considered as one of the most popular classification techniques. Therefore, a decision tree algorithm generates a classification and predictive model, which is simple to understand and interpret, easy to display graphically, and capable to handle both numerical and categorical data. The intelligent m-learning systems, enjoy recently an explosive growth of interest, for more effective education and adaptive learning tailored to each student's learning abilities. The goal of this paper is to further improve personalization in student academic performance, that includes dynamic tests with a predictive model. One major objective of this research is to create adaptive dynamic tests for assessing student academic performance, while constantly comparing the results of the assessment which exhibits the individual student profile, with the results of the decision tree's algorithm which formulates a predictive model for students' knowledge level, according to the weights of the decision tree.
+AU  - Matzavela, Vasiliki
+AU  - Alepis, Efthimios
+DA  - 2021/1//
+DO  - 10.1016/J.CAEAI.2021.100035
+PB  - Elsevier
+PY  - 2021
+SP  - 100035
+EP  - 100035
+TI  - Decision tree learning through a Predictive Model for Student Academic Performance in Intelligent M-Learning environments
+T2  - Computers and Education: Artificial Intelligence
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - The applications of artificial intelligence in education have increased in recent years. However, further conceptual and methodological understanding is needed to advance the systematic implementation of these approaches. The first objective of this study is to test a systematic procedure for implementing artificial neural networks to predict academic performance in higher education. The second objective is to analyze the importance of several well-known predictors of academic performance in higher education. The sample included 162,030 students of both genders from private and public universities in Colombia. The findings suggest that it is possible to systematically implement artificial neural networks to classify students’ academic performance as either high (accuracy of 82%) or low (accuracy of 71%). Artificial neural networks outperform other machine-learning algorithms in evaluation metrics such as the recall and the F1 score. Furthermore, it is found that prior academic achievement, socioeconomic conditions, and high school characteristics are important predictors of students’ academic performance in higher education. Finally, this study discusses recommendations for implementing artificial neural networks and several considerations for the analysis of academic performance in higher education.
+AU  - Rodríguez-Hernández, Carlos Felipe
+AU  - Musso, Mariel
+AU  - Kyndt, Eva
+AU  - Cascallar, Eduardo
+DA  - 2021/1//
+DO  - 10.1016/J.CAEAI.2021.100018
+PB  - Elsevier
+PY  - 2021
+SP  - 100018
+EP  - 100018
+TI  - Artificial neural networks in academic performance prediction: Systematic implementation and predictor evaluation
+T2  - Computers and Education: Artificial Intelligence
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - This study presents an artificial neural network (ANN) that is designed for predicting student academic performance. ANNs emulate human brain physiological function, have the ability to process information, and are used in research for making prediction models because of their ability to identify nonlinear relationships between variables. The database used contains academic, demographic, social, and institutional information of 395 Colombian vocational high school students at the Villa del Socorro Educational Institution, Medellín (Colombia). This information is retrieved from application surveys and institutional reports completed before the onset of the COVID-19 pandemic. The results show that the ANN developed here adequately classifies 73% of the sample and performs better in metrics (accuracy, recall, precision, and F1-Score) than other supervised learning techniques. It is concluded that early prediction of academic performance allows formulating didactic and pedagogical strategies that improve the efficiency of teaching and learning processes
+AU  - Gil-Vera, Víctor D.
+AU  - Quintero-López, Catalina
+AU  - Gil-Vera, Víctor D.
+AU  - Quintero-López, Catalina
+DA  - 2021/12//
+DO  - 10.4067/S0718-07642021000600221
+IS  - 6
+KW  - ANN
+KW  - artificial intelligence
+KW  - education
+KW  - performance
+KW  - students
+PB  - Centro de Información Tecnológica
+PY  - 2021
+SP  - 221
+EP  - 228
+TI  - Predicción del rendimiento académico estudiantil con redes neuronales artificiales
+T2  - Información tecnológica
+UR  - http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-07642021000600221&lng=es&nrm=iso&tlng=es
+UR  - http://www.scielo.cl/scielo.php?script=sci_abstract&pid=S0718-07642021000600221&lng=es&nrm=iso&tlng=es
+VL  - 32
+ER  -
+TY  - JOUR
+AB  - The aim of this article is to predict the academic performance of higher education students, considering several influential factors, applying artificial intelligence techniques (classifiers). Although such factors have been widely analyzed from quantitative and qualitative approaches, they still represent research opportunities using artificial intelligence tools, particularly in academic performance prediction. With the definition of influential factors (educational, family background, social and economics, habits and customs, among others), a methodology was designed to train a system able to a priori classify a new student, in one of the five categories of academic performance. This classification allows an educational institution to have an early identification of students with potential academic performance problems. From this knowledge the institution can deploy immediate mitigation action. The methodology was applied to a sample of students from a public university in Colombia, obtaining a success level of 91.7%.
+AU  - Castrillón, Omar D.
+AU  - Sarache, William
+AU  - Ruiz-Herrera, Santiago
+AU  - Castrillón, Omar D.
+AU  - Sarache, William
+AU  - Ruiz-Herrera, Santiago
+DA  - 2020/2//
+DO  - 10.4067/S0718-50062020000100093
+IS  - 1
+KW  - Academic performance
+KW  - Artificial intelligence
+KW  - Classifiers
+KW  - Prediction
+KW  - Successes
+KW  - inteligencia artificial
+KW  - predicción Keywords: academic performance
+KW  - prediction
+KW  - successes
+PB  - Centro de Información Tecnológica
+PY  - 2020
+SP  - 93
+EP  - 102
+TI  - Predicción del rendimiento académico por medio de técnicas de inteligencia artificial
+T2  - Formación universitaria
+UR  - http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-50062020000100093&lng=es&nrm=iso&tlng=es
+UR  - http://www.scielo.cl/scielo.php?script=sci_abstract&pid=S0718-50062020000100093&lng=es&nrm=iso&tlng=es
+VL  - 13
+ER  -
+TY  - JOUR
+AB  - The research on the educational field that involves Data Mining techniques is rapidly increasing. Applying Data Mining techniques in an educational background are known as Educational Data Mining that aims to discover hidden knowledge and patterns about student's performance. This work aims to develop student's academic performance prediction model, for the Bachelor and Master degree students in Computer Science and Electronics and Communication streams using two selected classification methods; Decision Tree and Fuzzy Genetic Algorithm. Parameters like internal marks, sessional marks and admission score were selected to conduct this work. Internal marks are the combination of attendance marks, average marks obtained from two sessional exams and assignment marks. Admission score for degree students is the weighted score obtained from 10th and 12th examination marks and entrance marks. In the case of master's degree students, it includes degree examination marks and entrance marks. Resultant prediction model can be used to identify student's performance for each subject. Thereby, the lecturers can classify students and take an early action to improve their performance. Systematic approaches can be taken to improve the performance with time. Due to early prediction and solutions are done, better results can be expected in final exams. Students can view their academic information and updates. Reputed companies having a tie-up with the institution can search students according to their requirements.
+AU  - Hamsa, Hashmia
+AU  - Indiradevi, Simi
+AU  - Kizhakkethottam, Jubilant J.
+DO  - 10.1016/J.PROTCY.2016.08.114
+PB  - Elsevier BV
+PY  - 2017
+SP  - 326
+EP  - 332
+TI  - Student Academic Performance Prediction Model Using Decision Tree and Fuzzy Genetic Algorithm
+T2  - Procedia Technology
+VL  - 25
+ER  -
+TY  - JOUR
+AB  - In this paper, the prediction and results analysis of the quality test of higher education in Colombia - Saber Pro is performed. The knowledge extraction in databases methodology KDD was used, on which a database of the student's academic performance was built in areas associated with the contents of the Saber Pro test, and neural networks were used as a technique for data mining. The neural networks allowed the prediction of the results of the Saber Pro test with high exactness in both qualitative and quantitative ranges. A correlation between academic performance and Saber Pro results was also found. The findings suggest that the methodology used is an excellent guide for the discovery of hidden patterns in the data, and allows to establish strategies to improve the results of the Saber Pro tests that involve the student's academic performance.
+AU  - García-González, José R.
+AU  - Sánchez-Sánchez, Paola A.
+AU  - Orozco, Manuel
+AU  - Obredor, Sergio
+DO  - 10.4067/S0718-50062019000400055
+IS  - 4
+KW  - Data mining
+KW  - Databases methodology KDD
+KW  - Higher education
+KW  - Knowledge extraction
+KW  - Saber Pro
+PB  - Centro de Informacion Tecnologica
+PY  - 2019
+SP  - 55
+EP  - 62
+TI  - Knowledge capture for the prediction and analysis of results of the quality test of higher education in Colombia
+T2  - Formacion Universitaria
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - With the rise of big data analytics, learning analytics has become a major trend for improving the quality of education. Learning analytics is a methodology for helping students to succeed in the classroom; the principle is to predict student’s academic performance at an early stage and thus provide them with timely assistance. Accordingly, this study used multiple linear regression (MLR), a popular method of predicting students’ academic performance, to establish a prediction model. Moreover, we combined MLR with principal component analysis (PCA) to improve the predictive accuracy of the model. TraditionalMLR has certain drawbacks; specifically, the coefficient of determination (R2) and mean square error (MSE) measures and the quantile-quantile plot (Q-Q plot) technique cannot evaluate the predictive performance and accuracy of MLR. Therefore, we propose predictive MSE (pMSE) and predictive mean absolute percentage correction (pMAPC) measures for determining the predictive performance and accuracy of the regression model, respectively. Analysis results revealed that the proposed model for predicting students’ academic performance could obtain optimal pMSE and pMAPC values by using six components obtained from PCA.
+AU  - Yang, Stephen J.H.
+AU  - Lu, Owen H.T.
+AU  - Huang, Anna Yu Qing
+AU  - Huang, Jeff Cheng Hsu
+AU  - Ogata, Hiroaki
+AU  - Lin, Albert J.Q.
+DA  - 2018/1//
+DO  - 10.2197/IPSJJIP.26.170
+KW  - Learning analytics
+KW  - Multiple linear regression
+KW  - Principal component analysis
+PB  - Information Processing Society of Japan
+PY  - 2018
+SP  - 170
+EP  - 176
+TI  - Predicting students’ academic performance using multiple linear regression and principal component analysis
+T2  - Journal of Information Processing
+VL  - 26
+ER  -
+TY  - JOUR
+AB  - The data about high students’ failure rates in introductory programming courses have been alarming many educators, raising a number of important questions regarding prediction aspects. In this paper, we present a comparative study on the effectiveness of educational data mining techniques to early predict students likely to fail in introductory programming courses. Although several works have analyzed these techniques to identify students’ academic failures, our study differs from existing ones as follows: (i) we investigate the effectiveness of such techniques to identify students likely to fail at early enough stage for action to be taken to reduce the failure rate; (ii) we analyse the impact of data preprocessing and algorithms fine-tuning tasks, on the effectiveness of the mentioned techniques. In our study we evaluated the effectiveness of four prediction techniques on two different and independent data sources on introductory programming courses available from a Brazilian Public University: one comes from distance education and the other from on-campus. The results showed that the techniques analyzed in our study are able to early identify students likely to fail, the effectiveness of some of these techniques is improved after applying the data preprocessing and/or algorithms fine-tuning, and the support vector machine technique outperforms the other ones in a statistically significant way.
+AU  - Costa, Evandro B.
+AU  - Fonseca, Baldoino
+AU  - Santana, Marcelo Almeida
+AU  - de Araújo, Fabrísia Ferreira
+AU  - Rego, Joilson
+DA  - 2017/8//
+DO  - 10.1016/J.CHB.2017.01.047
+KW  - Artificial intelligence in education
+KW  - Automatic instructional planner
+KW  - Automatic prediction
+KW  - Educational data mining
+KW  - Interactive learning environment
+KW  - Learner modeling
+PB  - Elsevier Ltd
+PY  - 2017
+SP  - 247
+EP  - 256
+TI  - Evaluating the effectiveness of educational data mining techniques for early prediction of students’ academic failure in introductory programming courses
+T2  - Computers in Human Behavior
+VL  - 73
+ER  -
+TY  - JOUR
+AB  - As the development of online learning is growing, a large amount of log data on student activity is available and accumulated in Learning Management Systems (LMS). This massive volume of data can be analysed in order to discover hidden information about students' learning behaviours and, in particular, to identify at-risk students and to advise instructors to provide additional assistance and interventions to help those who are at risk, to increase retention rates. As a result, Learning Analytics (LA) has emerged, which aims to measure, analyse and report students' learning behaviours using data analytics techniques. In this regard, this paper aims to provide an overview of how at-risk students are identified or predicted by analysing their learning behaviours in online learning, including the types of data and tools or analytics methods used. The findings indicate that most of the data analytics techniques have successfully identified and predicted at-risk students and various types of data are determined as attributes in predicting at-risk students. Finally, further research should be conducted to identify and predict at-risk students, since there are diverse students in online learning who have different demands, and interventions should be developed to tackle the problems faced by at-risk students in order to enhance their learning performances.
+AU  - Na, Kew Si
+AU  - Tasir, Zaidatun
+DA  - 2018/2//
+DO  - 10.1109/ICBDAA.2017.8284117
+KW  - at-risk students
+KW  - data analytics technique
+KW  - learning analytics
+KW  - log data
+KW  - online learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2018
+SN  - 9781538607909
+SP  - 118
+EP  - 123
+TI  - Identifying at-risk students in online learning by analysing learning behaviour: A systematic review
+T2  - 2017 IEEE Conference on Big Data and Analytics, ICBDA 2017
+VL  - 2018-Janua
+ER  -
+TY  - JOUR
+AB  - Predicting students at risk of academic failure is valuable for higher education institutions to improve student performance. During the pandemic, with the transition to compulsory distance learning in higher education, it has become even more important to identify these students and make instructional interventions to avoid leaving them behind. This goal can be achieved by new data mining techniques and machine learning methods. This study took both the synchronous and asynchronous activity characteristics of students into account to identify students at risk of academic failure during the pandemic. Additionally, this study proposes an optimal ensemble model predicting students at risk using a combination of relevant machine learning algorithms. Performances of over two thousand university students were predicted with an ensemble model in terms of gender, degree, number of downloaded lecture notes and course materials, total time spent in online sessions, number of attendances, and quiz score. Asynchronous learning activities were found more determinant than synchronous ones. The proposed ensemble model made a good prediction with a specificity of 90.34%. Thus, practitioners are suggested to monitor and organize training activities accordingly.
+AU  - Karalar, Halit
+AU  - Kapucu, Ceyhun
+AU  - Gürüler, Hüseyin
+DA  - 2021/12//
+DO  - 10.1186/S41239-021-00300-Y
+IS  - 1
+KW  - COVID-19 pandemic
+KW  - Distance learning
+KW  - Education in pandemic
+KW  - Educational data mining
+KW  - Ensemble learning model
+KW  - Predicting student at risk
+KW  - Predicting student performance
+PB  - Springer Science and Business Media Deutschland GmbH
+PY  - 2021
+TI  - Predicting students at risk of academic failure using ensemble model during pandemic in a distance learning system
+T2  - International Journal of Educational Technology in Higher Education
+VL  - 18
+ER  -
+TY  - JOUR
+AB  - Predicting the students’ performance has become a challenging task due to the increasing amount of data in educational systems. In keeping with this, identifying the factors affecting the students’ performance in higher education, especially by using predictive data mining techniques, is still in short supply. This field of research is usually identified as educational data mining. Hence, the main aim of this study is to identify the most commonly studied factors that affect the students’ performance, as well as, the most common data mining techniques applied to identify these factors. In this study, 36 research articles out of a total of 420 from 2009 to 2018 were critically reviewed and analyzed by applying a systematic literature review approach. The results showed that the most common factors are grouped under four main categories, namely students’ previous grades and class performance, students’ e-Learning activity, students’ demographics, and students’ social information. Additionally, the results also indicated that the most common data mining techniques used to predict and classify students’ factors are decision trees, Naïve Bayes classifiers, and artificial neural networks.
+AU  - Abu Saa, Amjed
+AU  - Al-Emran, Mostafa
+AU  - Shaalan, Khaled
+DA  - 2019/12//
+DO  - 10.1007/S10758-019-09408-7
+IS  - 4
+KW  - Data mining techniques
+KW  - Educational data mining
+KW  - Students’ performance
+KW  - Systematic review
+PB  - Springer Netherlands
+PY  - 2019
+SP  - 567
+EP  - 598
+TI  - Factors Affecting Students’ Performance in Higher Education: A Systematic Review of Predictive Data Mining Techniques
+T2  - Technology, Knowledge and Learning
+VL  - 24
+ER  -
+TY  - JOUR
+AB  - Prediction of student performance is one of the most important subjects of educational data mining. Artificial neural networks are seen to be an effective tool in predicting student performance in e-learning environments. In the studies carried out with artificial neural networks, performance predictions based on student scores are generally made, but students’ use of learning management system is not focused. In this study, performances of 3518 university students, who studying and actively participating in a learning management system, were tried to be predicted by artificial neural networks in terms of gender, content score, time spent on the content, number of entries to content, homework score, number of attendance to live sessions, total time spent in live sessions, number of attendance to archived courses and total time spent in archived courses variables. Since it is difficult to interpret how much input variables in artificial neural networks contribute to predicting output variables, these networks are called black boxes. Also, in this study the amount of contribution of input variables on the prediction of output variable was also examined. The artificial neural network created as a result of the study makes a prediction with an accuracy of 80.47%. Finally, it was found that the variables of number of attendance to the live classes, the number of attendance to archived courses and the time spent in the content contributed most to the prediction of the output variable.
+AU  - Aydoğdu, Şeyhmus
+DA  - 2020/5//
+DO  - 10.1007/S10639-019-10053-X
+IS  - 3
+KW  - Artificial neural networks
+KW  - Deep learning
+KW  - Distance education
+KW  - Educational data mining
+KW  - Online learning environments
+KW  - Performance prediction
+PB  - Springer
+PY  - 2020
+SP  - 1913
+EP  - 1927
+TI  - Predicting student final performance using artificial neural networks in online learning environments
+T2  - Education and Information Technologies
+VL  - 25
+ER  -
+TY  - JOUR
+AB  - Finding a solution to the problem of student retention is an often-required task across Higher Education. Most often managers and academics alike rely on intuition and experience to identify the potential risk students and factors. This paper examines the literature surrounding current methods and measures in use in Learning Analytics. We find that while tools are available, they do not focus on earliest possible identification of struggling students. Our work defines a new descriptive statistic for student attendance and applies modern machine learning tools and techniques to create a predictive model. We demonstrate how students can be identified as early as week 3 (of the Fall semester) with approximately 97% accuracy. We, furthermore, situate this result within an appropriate pedagogical context to support its use as part of a more comprehensive student support mechanism.
+AU  - Gray, Cameron C.
+AU  - Perkins, Dave
+DA  - 2019/4//
+DO  - 10.1016/J.COMPEDU.2018.12.006
+KW  - Learning analytics
+KW  - Machine learning
+KW  - Student retention
+PB  - Elsevier Ltd
+PY  - 2019
+SP  - 22
+EP  - 32
+TI  - Utilizing early engagement and machine learning to predict student outcomes
+T2  - Computers and Education
+VL  - 131
+ER  -
+TY  - JOUR
+AB  - Educational data mining helps the educational institutions to perform effectively and efficiently by exploiting the data related to all its stakeholders. It can help the at-risk students, develop recommendation systems and alert the students at different levels. It is beneficial to the students, educators and authorities as a whole. Deep learning has gained momentum in various domains especially image processing with a large dataset. We devise a regression model for analyzing the academic performance of the students using deep learning. We have applied regression using deep learning and linear regression on the dataset. For such models with smaller datasets, to tackle the issue of overfitting is critical. Hence, the parameters can be tuned to deal with such issues. The deep learning model records a mean absolute score (mae) of 1.61 and loss 4.7 with the value of k = 3. While the linear regression model yields a loss of 6.7 and mae score of 1.97. The deep learning model outperforms the linear regression model. The model may be successfully extended to other programmes to mine and predict the performance of the learners.
+AU  - Hussain, Sadiq
+AU  - Gaftandzhieva, Silvia
+AU  - Maniruzzaman, Md
+AU  - Doneva, Rositsa
+AU  - Muhsin, Zahraa Fadhil
+DA  - 2021/1//
+DO  - 10.1007/S10639-020-10241-0
+IS  - 1
+KW  - Data mining
+KW  - Deep learning
+KW  - Educational data mining
+KW  - Mean absolute error
+KW  - Regression
+PB  - Springer
+PY  - 2021
+SP  - 783
+EP  - 798
+TI  - Regression analysis of student academic performance using deep learning
+T2  - Education and Information Technologies
+VL  - 26
+ER  -
+TY  - JOUR
+AB  - Learning analytics have proved promising capabilities and opportunities to many aspects of academic research and higher education studies. Data-driven insights can significantly contribute to provide solutions for curbing costs and improving education quality. This paper adopts a two-phase machine learning approach, which utilizes both unsupervised and supervised learning techniques for predicting outcomes of students following Higher Education programs of studies. The approach has been applied in a case-study which has been performed in the context of an undergraduate Computer Science curriculum offered by the University of Thessaly in Greece. Students involved in the case study were initially grouped based on the similarity of specific education-related factors and metrics. Using the K-Means algorithm, our clustering experiments revealed the presence of three coherent clusters of students. Subsequently, the discovered clusters were utilized to train prediction models for addressing each particular cluster of students individually. In this regard, two machine learning models were trained for every cluster of students in order to predict the time to degree completion and student enrollment in the offered educational programs. The developed models are claimed to produce predictions with relatively high accuracy. Finally, the paper discusses the potential usefulness of the clustering-aided approach for learning analytics in Higher Education.
+AU  - Iatrellis, Omiros
+AU  - Savvas, Ilias
+AU  - Fitsilis, Panos
+AU  - Gerogiannis, Vassilis C.
+DA  - 2021/1//
+DO  - 10.1007/S10639-020-10260-X
+IS  - 1
+KW  - Higher education
+KW  - Learning analytics
+KW  - Supervised learning
+KW  - Unsupervised learning
+PB  - Springer
+PY  - 2021
+SP  - 69
+EP  - 88
+TI  - A two-phase machine learning approach for predicting student outcomes
+T2  - Education and Information Technologies
+VL  - 26
+ER  -
+TY  - JOUR
+AB  - Student performance modelling is one of the challenging and popular research topics in educational data mining (EDM). Multiple factors influence the performance in non-linear ways; thus making this field more attractive to the researchers. The widespread availability of e ducational datasets further catalyse this interestingness, especially in online learning. Although several EDM surveys are available in the literature, we could find only a few specific surveys on student performance analysis and prediction. These specific surveys are limited in nature and primarily focus on studies that try to identify possible predictor or model student performance. However, the previous works do not address the temporal aspect of prediction. Moreover, we could not find any such specific survey which focuses only on classroom-based education. In this paper, we present a systematic review of EDM studies on student performance in classroom learning. It focuses on identifying the predictors, methods used for such identification, time and aim of prediction. It is significantly the first systematic survey of EDM studies that consider only classroom learning and focuses on the temporal aspect as well. This paper presents a review of 140 studies in this area. The meta-analysis indicates that the researchers achieve significant prediction efficiency during the tenure of the course. However, performance prediction before course commencement needs special attention.
+AU  - Khan, Anupam
+AU  - Ghosh, Soumya K.
+DA  - 2021/1//
+DO  - 10.1007/S10639-020-10230-3
+IS  - 1
+KW  - Classroom learning
+KW  - Educational data mining
+KW  - Literature review
+KW  - Performance prediction
+KW  - Student performance
+PB  - Springer
+PY  - 2021
+SP  - 205
+EP  - 240
+TI  - Student performance analysis and prediction in classroom learning: A review of educational data mining studies
+T2  - Education and Information Technologies
+VL  - 26
+ER  -
+TY  - JOUR
+AB  - Recent increase in the availability of learning data has given educational data mining an importance and momentum, in order to better understand and optimize the learning process and environments in which it occurs. The aim of this paper is to provide a comprehensive analysis and comparison of state of the art supervised machine learning techniques applied for solving the task of student exam performance prediction, i.e. discovering students at a “high risk” of dropping out from the course, and predicting their future achievements, such as for instance, the final exam scores. For both classification and regression tasks, the overall highest precision was obtained with artificial neural networks by feeding the student engagement data and past performance data, while the usage of demographic data did not show significant influence on the precision of predictions. To exploit the full potential of the student exam performance prediction, it was concluded that adequate data acquisition functionalities and the student interaction with the learning environment is a prerequisite to ensure sufficient amount of data for analysis.
+AU  - Tomasevic, Nikola
+AU  - Gvozdenovic, Nikola
+AU  - Vranes, Sanja
+DA  - 2020/1//
+DO  - 10.1016/J.COMPEDU.2019.103676
+KW  - Adult learning
+KW  - Evaluation methodologies
+KW  - Intelligent tutoring systems
+KW  - Programming and programming languages
+PB  - Elsevier Ltd
+PY  - 2020
+TI  - An overview and comparison of supervised data mining techniques for student exam performance prediction
+T2  - Computers and Education
+VL  - 143
+ER  -
+TY  - JOUR
+AB  - This study sought to identify significant behavioral indicators of learning using learning management system (LMS) data regarding online course achievement. Because self-regulated learning is critical to success in online learning, measures reflecting self-regulated learning were included to examine the relationship between LMS data measures and course achievement. Data were collected from 530 college students who took an online course. The results demonstrated that students' regular study, late submissions of assignments, number of sessions (the frequency of course logins), and proof of reading the course information packets significantly predicted their course achievement. These findings verify the importance of self-regulated learning and reveal the advantages of using measures related to meaningful learning behaviors rather than simple frequency measures. Furthermore, the measures collected in the middle of the course significantly predicted course achievement, and the findings support the potential for early prediction using learning performance data. Several implications of these findings are discussed.
+AU  - You, Ji Won
+DA  - 2017/4//
+DO  - 10.1016/J.IHEDUC.2015.11.003
+KW  - Course achievement
+KW  - LMS data
+KW  - Learning analytics
+KW  - Online learning
+KW  - Self-regulated learning
+PB  - Elsevier Ltd
+PY  - 2017
+SP  - 23
+EP  - 30
+TI  - Identifying significant indicators using LMS data to predict course achievement in online learning
+T2  - Internet and Higher Education
+VL  - 29
+ER  -
+TY  - JOUR
+AB  - Background: Stress-related mental health problems are one of the most common causes of the burden in university students worldwide. Many studies have been conducted to predict the prevalence of stress among university students, however most of these analyses were predominantly performed using the basic logistic regression (LR) model. As an alternative, we used the advanced machine learning (ML) approaches for detecting significant risk factors and to predict the prevalence of stress among Bangladeshi university students. Methods: This prevalence study surveyed 355 students from twenty-eight different Bangladeshi universities using questions concerning anthropometric measurements, academic, lifestyles, and health-related information, which referred to the perceived stress status of the respondents (yes or no). Boruta algorithm was used in determining the significant prognostic factors of the prevalence of stress. Prediction models were built using decision tree (DT), random forest (RF), support vector machine (SVM), and LR, and their performances were evaluated using parameters of confusion matrix, receiver operating characteristics (ROC) curves, and k-fold cross-validation techniques. Results: One-third of university students reported stress within the last 12 months. Students’ pulse rate, systolic and diastolic blood pressures, sleep status, smoking status, and academic background were selected as the important features for predicting the prevalence of stress. Evaluated performance revealed that the highest performance observed from RF (accuracy = 0.8972, precision = 0.9241, sensitivity = 0.9250, specificity = 0.8148, area under the ROC curve (AUC) = 0.8715, k-fold accuracy = 0.8983) and the lowest from LR (accuracy = 0.7476, precision = 0.8354, sensitivity = 0.8250, specificity = 0.5185, AUC = 0.7822, k-fold accuracy = 07713) and SVM with polynomial kernel of degree 2 (accuracy = 0.7570, precision = 0.7975, sensitivity = 0.8630, specificity = 0.5294, AUC = 0.7717, k-fold accuracy = 0.7855). Overall, the RF model performs better and authentically predicted stress compared with other ML techniques, including individual and interaction effects of predictors. Conclusion: The machine learning framework can be detected the significant prognostic factors and predicted this psychological problem more accurately, thereby helping the policy-makers, stakeholders, and families to understand and prevent this serious crisis by improving policy-making strategies, mental health promotion, and establishing effective university counseling services.
+AU  - Rois, Rumana
+AU  - Ray, Manik
+AU  - Rahman, Atikur
+AU  - Roy, Swapan K.
+DA  - 2021/12//
+DO  - 10.1186/S41043-021-00276-5
+IS  - 1
+KW  - Confusion matrix
+KW  - Decision tree
+KW  - Feature selection
+KW  - Mental health
+KW  - ROC
+KW  - Random forest
+KW  - Support vector machine
+KW  - k-fold cross-validation
+PB  - BioMed Central Ltd
+PY  - 2021
+TI  - Prevalence and predicting factors of perceived stress among Bangladeshi university students using machine learning algorithms
+T2  - Journal of Health, Population and Nutrition
+VL  - 40
+ER  -
+TY  - JOUR
+AB  - Teaching is the primary component of the educational process for college students. To achieve the training objectives of different subjects, every University has arranged various types of courses. The ultimate purpose of teaching activities for these courses consists of improving the students' knowledge level, ability level, and quality level. However, most of the current teaching activities only focus on the evaluation system and performance evaluation method for each course, thus lacking an overall academic performance and evaluation pipeline designed for the influence of different courses on students' future development. Bearing the above-mentioned analysis in mind, we introduced machine learning-based techniques into students' academic performance analysis and leveraged the learning-based approaches of rank models to establish a framework for students' learning ability analysis. By employing imaging sensors, the capability of multiple media including image and video has also been embedded into the proposed architecture. Meanwhile, we exploited the pipeline for different students' academic performance to reveal the academic commonality among students and the different influence of the primary courses for students' future development between different groups.
+AU  - Lin, Yongzheng
+AU  - Liu, Hong
+AU  - Chen, Zhenxiang
+AU  - Ma, Kun
+DA  - 2021/11//
+DO  - 10.1109/JSEN.2020.3043189
+IS  - 22
+KW  - Classification
+KW  - education data
+KW  - machine learning
+KW  - ranking learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SP  - 24952
+EP  - 24958
+TI  - Machine Learning-Based Classification of Academic Performance via Imaging Sensors
+T2  - IEEE Sensors Journal
+VL  - 21
+ER  -
+TY  - JOUR
+AB  - In recent years, the American Association of Colleges of Pharmacy (AACP) has encouraged the application of big data analytic techniques to pharmaceutical education. Indeed, the 2013-2014 Academic Affairs Committee Report included a “Learning Analytics in Pharmacy Education” section that reviewed the potential benefits of adopting big data techniques.1 Likewise, the 2014-2015 Argus Commission Report discussed uses for big data analytics in the classroom, practice, and admissions.2 While both of these reports were thorough, neither discussed specific analytic techniques. Conse-quently, this commentary will introduce classification trees, with a particular emphasis on their use in admission. With electronic applications, pharmacy schools and colleges now have access to detailed applicant records containing thousands of observations. With declining applications nationwide, admissions analytics may be more important than ever.3.
+AU  - Karpen, Samuel C.
+AU  - Ellis, Steve C.
+DO  - 10.5688/AJPE6980
+IS  - 7
+KW  - Admissions
+KW  - Decision tree
+KW  - Predictive analytics
+PB  - American Association of Colleges of Pharmacy
+PY  - 2018
+SP  - 742
+EP  - 745
+TI  - The application of classification trees to pharmacy school admissions
+T2  - American Journal of Pharmaceutical Education
+VL  - 82
+ER  -
+TY  - JOUR
+AB  - Online learning platforms such as Massive Open Online Course (MOOC), Virtual Learning Environments (VLEs), and Learning Management Systems (LMS) facilitate thousands or even millions of students to learn according to their interests without spatial and temporal constraints. Besides many advantages, online learning platforms face several challenges such as students' lack of interest, high dropouts, low engagement, students' self-regulated behavior, and compelling students to take responsibility for settings their own goals. In this study, we propose a predictive model that analyzes the problems faced by at-risk students, subsequently, facilitating instructors for timely intervention to persuade students to increase their study engagements and improve their study performance. The predictive model is trained and tested using various machine learning (ML) and deep learning (DL) algorithms to characterize the learning behavior of students according to their study variables. The performance of various ML algorithms is compared by using accuracy, precision, support, and f-score. The ML algorithm that gives the best result in terms of accuracy, precision, recall, support, and f-score metric is ultimately selected for creating the predictive model at different percentages of course length. The predictive model can help instructors in identifying at-risk students early in the course for timely intervention thus avoiding student dropouts. Our results showed that students' assessment scores, engagement intensity i.e. clickstream data, and time-dependent variables are important factors in online learning. The experimental results revealed that the predictive model trained using Random Forest (RF) gives the best results with averaged precision =0.60%, 0.79%, 0.84%, 0.88%, 0.90%, 0.92%, averaged recall =0.59%, 0.79%, 0.84%, 0.88%, 0.90%, 0.91%, averaged F-score =0.59%, 0.79%, 0.84%, 0.88%, 0.90%, 0.91%, and average accuracy =0.59%, 0.79%, 0.84%, 0.88%, 0.90%, 0.91% at 0%, 20%, 40%, 60%, 80% and 100% of course length.
+AU  - Adnan, Muhammad
+AU  - Habib, Asad
+AU  - Ashraf, Jawad
+AU  - Mussadiq, Shafaq
+AU  - Raza, Arsalan Ali
+AU  - Abid, Muhammad
+AU  - Bashir, Maryam
+AU  - Khan, Sana Ullah
+DO  - 10.1109/ACCESS.2021.3049446
+KW  - Predictive model
+KW  - at-risk students
+KW  - earliest possible prediction
+KW  - early intervention
+KW  - feed-forward neural network
+KW  - machine learning
+KW  - random forest
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SP  - 7519
+EP  - 7539
+TI  - Predicting at-Risk Students at Different Percentages of Course Length for Early Intervention Using Machine Learning Models
+T2  - IEEE Access
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - Educational Data Mining plays a critical role in advancing the learning environment by contributing state-of-the-art methods, techniques, and applications. The recent development provides valuable tools for understanding the student learning environment by exploring and utilizing educational data using machine learning and data mining techniques. Modern academic institutions operate in a highly competitive and complex environment. Analyzing performance, providing high-quality education, strategies for evaluating the students’ performance, and future actions are among the prevailing challenges universities face. Student intervention plans must be implemented in these universities to overcome problems experienced by the students during their studies. In this systematic review, the relevant EDM literature related to identifying student dropouts and students at risk from 2009 to 2021 is reviewed. The review results indicated that various Machine Learning (ML) techniques are used to understand and overcome the underlying challenges; predicting students at risk and students drop out prediction. Moreover, most studies use two types of datasets: data from student colleges/university databases and online learning platforms. ML methods were confirmed to play essential roles in predicting students at risk and dropout rates, thus improving the students’ performance.
+AU  - Albreiki, Balqis
+AU  - Zaki, Nazar
+AU  - Alashwal, Hany
+DA  - 2021/9//
+DO  - 10.3390/EDUCSCI11090552
+IS  - 9
+KW  - Classification
+KW  - Education data mining
+KW  - MOOC
+KW  - Machine learning
+KW  - Prediction
+KW  - Student performance
+PB  - MDPI
+PY  - 2021
+TI  - A systematic literature review of student’ performance prediction using machine learning techniques
+T2  - Education Sciences
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - High education is an important and critical part of education all over the world. In last year, the world has been turned increasingly to online education due to the outbreak of the Covid-19 pandemic; therefore, improving this education system became an urgent matter. Online learning systems are a primal environment for acquiring educational data which can be from different sources, especially academic institutions. These data can be mainly used to analyze and extract utilizable information to help in understanding university students’ performance and identifying factors that affect it. To extract some meaningful information from these large volumes of data, academic organizations must mine the data with high accuracy. In this work, three different real datasets were selected, pre-processed, cleaned, and filtered for applying support vector machine (SVM) with multilayer perceptron kernel (MLP kernel) and optimize its parameters using simulated annealing (SA) algorithm to improve the objective function value. While examining the search space, SA has the advantage of escaping from local minima since it offers the chance for accepting the worse neighbor as a solution in a controlled manner. The results show that the designed system can determine the best SVM parameters using SA and therefore presents better model evaluation.
+AU  - Mahareek, Esraa A.
+AU  - Desuky, Abeer S.
+AU  - El-Zhni, Habiba Abdullah
+DA  - 2021/6//
+DO  - 10.11591/EEI.V10I3.2855
+IS  - 3
+KW  - Bio-inspired optimization
+KW  - Educational data
+KW  - Educational decision making
+KW  - Prediction
+KW  - SVM parameter optimization
+KW  - Simulated annealing
+KW  - Students’ performance
+KW  - University education
+PB  - Institute of Advanced Engineering and Science
+PY  - 2021
+SP  - 1211
+EP  - 1219
+TI  - Simulated annealing for svm parameters optimization in student’s performance prediction
+T2  - Bulletin of Electrical Engineering and Informatics
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - Early and precisely predicting the students’ dropout based on available educational data belongs to the widespread research topic of the learning analytics research field. Despite the amount of already realized research, the progress is not significant and persists on all educational data levels. Even though various features have already been researched, there is still an open question, which features can be considered appropriate for different machine learning classifiers applied to the typical scarce set of educational data at the e-learning course level. Therefore, the main goal of the research is to emphasize the importance of the data understanding, data gathering phase, stress the limitations of the available datasets of educational data, compare the performance of several machine learning classifiers, and show that also a limited set of features, which are available for teachers in the e-learning course, can predict student’s dropout with sufficient accuracy if the performance metrics are thoroughly considered. The data collected from four academic years were analyzed. The features selected in this study proved to be applicable in predicting course completers and non-completers. The prediction accuracy varied between 77 and 93% on unseen data from the next academic year. In addition to the frequently used performance metrics, the comparison of machine learning classifiers homogeneity was analyzed to overcome the impact of the limited size of the dataset on obtained high values of performance metrics. The results showed that several machine learning algorithms could be successfully applied to a scarce dataset of educational data. Simultaneously, classification performance metrics should be thoroughly considered before deciding to deploy the best performance classification model to predict potential dropout cases and design beneficial intervention mechanisms.
+AU  - Kabathova, Janka
+AU  - Drlik, Martin
+DA  - 2021/4//
+DO  - 10.3390/APP11073130
+IS  - 7
+KW  - Dropout prediction
+KW  - Educational data mining
+KW  - Learning analytics
+KW  - Machine learning
+PB  - MDPI AG
+PY  - 2021
+TI  - Towards predicting student’s dropout in university courses using different machine learning techniques
+T2  - Applied Sciences (Switzerland)
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - The Learning Analytics community has recently paid particular attention to early predict learners’ performance. An established approach entails training classification models from past learner-related data in order to predict the exam success rate of a student well before the end of the course. Early predictions allow teachers to put in place targeted actions, e.g., supporting at-risk students to avoid exam failures or course dropouts. Although several machine learning and data mining solutions have been proposed to learn accurate predictors from past data, the interpretability and explainability of the best performing models is often limited. Therefore, in most cases, the reasons behind classifiers’ decisions remain unclear. This paper proposes an Explainable Learning Analytics solution to analyze learner-generated data acquired by our technical university, which relies on a blended learning model. It adopts classification techniques to early predict the success rate of about 5000 students who were enrolled in the first year courses of our university. It proposes to apply associative classifiers at different time points and to explore the characteristics of the models that led to assign pass or fail success rates. Thanks to their inherent interpretability, associative models can be manually explored by domain experts with the twofold aim at validating classifier outcomes through local rule-based explanations and identifying at-risk/successful student profiles by interpreting the global rule-based model. The results of an in-depth empirical evaluation demonstrate that associative models (i) perform as good as the best performing classification models, and (ii) give relevant insights into the per-student success rate assignments.
+AU  - Cagliero, Luca
+AU  - Canale, Lorenzo
+AU  - Farinetti, Laura
+AU  - Baralis, Elena
+AU  - Venuto, Enrico
+DA  - 2021/2//
+DO  - 10.3390/APP11041420
+IS  - 4
+KW  - Blended learning models
+KW  - Classification and regression algorithms
+KW  - Learning analytics
+PB  - MDPI AG
+PY  - 2021
+SP  - 1
+EP  - 22
+TI  - Predicting student academic performance by means of associative classification
+T2  - Applied Sciences (Switzerland)
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - In this competitive scenario of the educational system, higher education institutions use intelligent learning tools and techniques to predict the factors of student academic performance. Given this, the article aims to determine the supervised learning model for the predictive system of personal and social attitudes of university students of professional engineering careers. For this, the Machine Learning Classification Learner technique is used by means of the Matlab R2021a software. The results reflect a predictive system capable of classifying the four satisfaction classes (1: dissatisfied, 2: not very satisfied, 3: satisfied and 4: very satisfied) with an accuracy of 91.96%, a precision of 79.09%, a Sensitivity of 75.66% and a Specificity of 92.09%, regarding the students' perception of their personal and social attitudes. As a result, the higher institution will be able to take measures to monitor and correct the strengths and weaknesses of each variable related to satisfaction with the quality of the educational service.
+AU  - Chamorro-Atalaya, Omar
+AU  - Olivares-Zegarra, Soledad
+AU  - Paredes-Soria, Alejandro
+AU  - Samanamud-Loyola, Oscar
+AU  - Santos, Marco Anton De Los
+AU  - Santos, Juan Anton De Los
+AU  - Fierro-Bravo, Maritte
+AU  - Villanueva-Acosta, Victor
+DO  - 10.14569/IJACSA.2021.0121289
+IS  - 12
+KW  - Supervised learning
+KW  - classification learner
+KW  - engineering students
+KW  - personal and social attitudes
+KW  - predictive system
+PB  - Science and Information Organization
+PY  - 2021
+SP  - 718
+EP  - 725
+TI  - Supervised Learning through Classification Learner Techniques for the Predictive System of Personal and Social Attitudes of Engineering Students
+T2  - International Journal of Advanced Computer Science and Applications
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - Education is the vital parameter of the country for development in divergent areas like cultivation, economic, political, health, and so on. Any educational Institute’s (universities, colleges, schools) main goal is to increase the student’s learning capabilities and their skills for their full contribution towards society. In These days, “student’s learning process and skill development” research topic requires much-needed attention for the betterment of society. The student’s performance depends on his/her learning ability and is influenced by many factors. In this paper, we analyze the different categories of student’s leanings that are very fast, fast, moderate, and slow. For this, we conducted the training and tests and use the features likeability, knowledge level, reasoning, and core subject abilities for the 313 engineering students in AITAM, Tekkali, affiliated to JNTUK, India of 2017 to 2019. We gathered information about the personal, academic, cognitive level, and demographic data of students. In this experiment, we are conducting statistical analysis as well as classification of students into 4 types of learners and applying the different Machine Learning (ML) techniques, and choose the best ML algorithm for predicting students learning rates. This leads to conducting remedial classes with new teaching methods for moderate and slow learning students. The proposed paper accommodates the individual differences of the learners in terms of knowledge level, learning preferences, cognitive abilities, etc. For this, we apply 5 ML algorithms that are Naive Bayes, Classification Trees (CTs), k-NN, C4.5, and SVM. As per ML analysis, the k-Nearest Neighborhood (k-NN) algorithm is more efficient than other algorithms where the accuracy and prediction values are nearer to 100%.
+AU  - Vital, T. Pandu Ranga
+AU  - Sangeeta, K.
+AU  - Kumar, Kalyana Kiran
+DO  - 10.12785/IJCDS/100107
+IS  - 1
+KW  - Education
+KW  - Machine Learning
+KW  - Student’s Learning
+KW  - Student’s performance
+PB  - University of Bahrain
+PY  - 2021
+SP  - 63
+EP  - 75
+TI  - Student classification based on cognitive abilities and predicting learning performances using machine learning models
+T2  - International Journal of Computing and Digital Systems
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - Higher education institutions aim to forecast student success which is an important research subject. Forecasting student success can enable teachers to prevent students from dropping out before final examinations, identify those who need additional help and boost institution ranking and prestige. Machine learning techniques in educational data mining aim to develop a model for discovering meaningful hidden patterns and exploring useful information from educational settings. The key traditional characteristics of students (demographic, academic background and behavioural features) are the main essential factors that can represent the training dataset for supervised machine learning algorithms. In this study, we compared the performances of several supervised machine learning algorithms, such as Decision Tree, Naïve Bayes, Logistic Regression, Support Vector Machine, K-Nearest Neighbour, Sequential Minimal Optimisation and Neural Network. We trained a model by using datasets provided by courses in the bachelor study programmes of the College of Computer Science and Information Technology, University of Basra, for academic years 2017-2018 and 2018-2019 to predict student performance on final examinations. Results indicated that logistic regression classifier is the most accurate in predicting the exact final grades of students (68.7% for passed and 88.8% for failed).
+AU  - Hashim, Ali Salah
+AU  - Awadh, Wid Akeel
+AU  - Hamoud, Alaa Khalaf
+DA  - 2020/11//
+DO  - 10.1088/1757-899X/928/3/032019
+IS  - 3
+KW  - Decision Tree
+KW  - K-Nearest Neighbour
+KW  - Logistic Regression
+KW  - Multi-layer Perceptron
+KW  - Naive Bayes
+KW  - Neural Network
+KW  - Supervised Machine Learning, Educational Data Mini
+PB  - IOP Publishing Ltd
+PY  - 2020
+TI  - Student Performance Prediction Model based on Supervised Machine Learning Algorithms
+T2  - IOP Conference Series: Materials Science and Engineering
+VL  - 928
+ER  -
+TY  - JOUR
+AB  - Student performance prediction has become a hot research topic. Most of the existing prediction models are built by a machine learning method. They are interested in prediction accuracy but pay less attention to interpretability. We propose a stacking ensemble model to predict and analyze student performance in academic competition. In this model, student performance is classified into two symmetrical categorical classes. To improve accuracy, three machine learning algorithms, including support vector machine (SVM), random forest, and AdaBoost are established in the first level and then integrated by logistic regression via stacking. A feature importance analysis was applied to identify important variables. The experimental data were collected from four academic years in Hankou University. According to comparative studies on five evaluation metrics (precision, recall, F1, error, and area under the receiver operating characteristic curve (AUC) in this analysis, the proposed model generally performs better than compared models. The important variables identified from the analysis are interpretable, they can be used as guidance to select potential students.
+AU  - Yan, Lijuan
+AU  - Liu, Yanshen
+DA  - 2020/5//
+DO  - 10.3390/SYM12050728
+IS  - 5
+KW  - Ensemble
+KW  - Machine learning
+KW  - Prediction model
+KW  - Student performance
+PB  - MDPI AG
+PY  - 2020
+TI  - An ensemble prediction model for potential student recommendation using machine learning
+T2  - Symmetry
+VL  - 12
+ER  -
+TY  - JOUR
+AB  - This study applied Educational Data Mining on 712 sample of logs extracted from Moodle Learning Management System (LMS) at an African University in order to measure students and staff patterns of use of the LMS resources and hence determine if the quantity of participation measured in the amount of time spent on the use of LMS resources improved academic performance of students. Data collected from Moodle LMS was preprocessed and analyzed using machine learning algorithms of clustering, classification and visualization from WEKA system tools. The dataset consisted of Course tools (Quiz, Assignment, Chat, Forum, URL, Folder and Files), Lecturer and Student usage of the tools. Furthermore, SPSS was used to obtain a matrix for coefficients of correlations for course tools, tests and final grade. Correlation analysis was done to verify if students use of course tools had impact on student’s academic performance. Findings indicated the pattern of usage for course1 as Quiz (38358), System (17910), Forum (8663), File (8566), Assignment (1235), Folder (514, File Submission (172), and Chat (37); Course2 as System (11920), Quiz (8208), Forum (4476), File (4394), Assignment (257), Chat (247), URL (125), and File Submission (38); Course3 as System (2622),File (1022), Folder (570), Forum (258), and URL (2). Overall, evaluating the correlation between the use of LMS resources and students’ performance, findings indicated there is significant relationship between the use of LMS resources and students’ academic performance at 0.01 level of significant. The findings are useful for strategic academic planning purpose with LMS data at the university.
+AU  - Okike, Ezekiel U.
+AU  - Mogorosi, Merapelo
+DO  - 10.14569/IJACSA.2020.0111171
+IS  - 11
+KW  - Educational data mining
+KW  - Weka system tools
+KW  - improved academic performance
+KW  - learning management systems
+PB  - Science and Information Organization
+PY  - 2020
+SP  - 570
+EP  - 581
+TI  - Educational Data Mining for Monitoring and Improving Academic Performance at University Levels
+T2  - International Journal of Advanced Computer Science and Applications
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - This research study identifies variables that influence the prediction of performance in industrial engineering undergraduate students at the Universidad Distrital (Colombia) by three methodologies: filter, wrappers, and integrated. Python programming language classification algorithms such as decision tree, K nearest neighbors, and perceptron are implemented and they are compared to obtain the best prediction results. The results show that gender and the ICFES Score (Colombian nation-wide university admission exam) for mathematics were in the upper range in all the selection methods. The Perceptron algorithm is the most accurate of all the algorithms tested. It is concluded that the variables that most affect academic performance in engineering students are: age, gender, tuition fee, the overall ICFES score, and the ICFES scores for mathematical aptitude and cohort mathematics.
+AU  - Contreras, Leonardo E.
+AU  - Fuentes, Hséctor J.
+AU  - Rodrfguez, Jossé I.
+DO  - 10.4067/S0718-50062020000500233
+IS  - 5
+KW  - academic performance
+KW  - analytics of data
+KW  - engineering education
+KW  - machine learning
+KW  - model
+PB  - Centro de Informacion Tecnologica
+PY  - 2020
+SP  - 233
+EP  - 246
+TI  - Academic performance prediction by machine learning as a success/failure indicator for engineering students
+T2  - Formacion Universitaria
+VL  - 13
+ER  -
+TY  - JOUR
+AB  - With the increasing globalization in higher education, universities are giving importance to attract international students to achieve diversity and good ratings from accreditation bodies. Machine learning techniques have the potential to predict the class of a dependent variable and can thus enable educational institutes to predict the academic performance of students and improve related learning processes. The purpose of this study is to predict the academic performance of international students studying at a university in North India. This study has explored the predictive potential of attributes like their attendance percentage, pending reappears, economy level, geographical region, etc. in developing a statistical model that can predict the likely performance of a student as satisfactory or poor. Machine learning algorithms like logistic regression, naïve Bayes, CART and random forests have been used. Classification accuracy, sensitivity, specificity and area under the ROC curve have been used for evaluation purpose. Interpretable explanations for model outcomes have also been obtained. Classification accuracy of above 90% was observed during experiments. Features like attendance percentage and pending reappears were observed to be contributing most towards prediction outcomes.
+AU  - Kumar, Pawan
+AU  - Sharma, Manmohan
+DO  - 10.1007/978-981-15-1286-5_25
+KW  - Academic performance
+KW  - Binary classification
+KW  - Educational data mining
+KW  - Human interpretability
+KW  - Machine learning
+KW  - Predictive models
+PB  - Springer
+PY  - 2020
+SN  - 9789811512858
+SP  - 289
+EP  - 303
+TI  - Predicting Academic Performance of International Students Using Machine Learning Techniques and Human Interpretable Explanations Using LIME—Case Study of an Indian University
+T2  - Advances in Intelligent Systems and Computing
+VL  - 1087
+ER  -
+TY  - JOUR
+AB  - Student Performance Analysis System is an emerging field and is very crucial to schools and universities in helping their students and professors. Most of the pre-existing methods are based only on past academic performance of students. This paper aims to develop models which can predict the student's performance and grades while keeping in mind other equally essential personality factors like interests, attributes and opinions (IAO variables) which affect their lifestyle. It uses various machine learning and deep learning techniques to predict the performance of students, and basic exploratory data analysis to derive various correlations of student's performance with psychographic attributes.
+AU  - Shah, Mehil B.
+AU  - Kaistha, Maheeka
+AU  - Gupta, Yogesh
+DA  - 2019/11//
+DO  - 10.1109/ISCON47742.2019.9036250
+KW  - Boosting Techniques
+KW  - Classification Techniques
+KW  - Exploratory Data Analysis
+KW  - Multi Class Classification
+KW  - Neural Networks
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2019
+SN  - 9781728136516
+SP  - 386
+EP  - 390
+TI  - Student Performance Assessment and Prediction System using Machine Learning
+T2  - 2019 4th International Conference on Information Systems and Computer Networks, ISCON 2019
+ER  -
+TY  - JOUR
+AB  - Personal realization is one of the best things for a successful life. Sometimes, one needs help to realize about bad habits, career goals and accomplish mental health as well as to overcome other problems. This help is generally known as “Counselling”. To ensure effectiveness of counselling service, prime concern is to find out the target group of instances. Many researchers worked with student performance prediction based on academic attributes moreover students’ counselling is also needed to increase their performance. We addressed this issue for this paper work. Here, a model is proposed to predict a student who needs counselling. This study was mainly motivated by two main steps. The first was to investigate university students who feels an urge about having counselling for psychological help from their circumstances and second was to predict efficiently which group of students really needs counselling. This paper work was established with 498 instances and each comprised of 6 attributes. In the case of evaluate the result, paper shows superiority over state-of-the-art methods to predict student counselling through machine learning and factor scoring method. We applied 10 fold cross-validation and 66% dataset splits evaluation method to find out better algorithm among selected 5 algorithms which are Ibk, Naive Bayes, Multilayer, SMO and Random Forest. Weka 3.8.0 have been used for machine learning algorithms where Ibk (Instance Based Learning) was found best for our approach with 95.38% accuracy.
+AU  - Jahan, Nusrat
+AU  - Islam, Saiful
+AU  - Sultana, Rezwana
+DA  - 2019/10//
+DO  - 10.35940/IJEAT.A1131.109119
+IS  - 1
+KW  - Factor scoring
+KW  - Ibk
+KW  - Machine learning
+KW  - Student counselling
+KW  - Weka
+PB  - Blue Eyes Intelligence Engineering and Sciences Publication
+PY  - 2019
+SP  - 243
+EP  - 248
+TI  - Factor scoring and machine learning algorithm to predict student counselling
+T2  - International Journal of Engineering and Advanced Technology
+VL  - 9
+ER  -
+TY  - JOUR
+AB  - The conventional statistical evaluations are limited in providing good predictions of the university educational quality. This paper presents an approach with both conventional statistical analysis and neural network modelling/prediction of students’ performance. Conventional statistical evaluations are used to identify the factors that likely affect the students’ performance. The neural network is modelled with 11 input variables, two layers of hidden neurons, and one output layer. Levenberg–Marquardt algorithm is employed as the backpropagation training rule. The performance of neural network model is evaluated through the error performance, regression, error histogram, confusion matrix and area under the receiver operating characteristics curve. Overall, the neural network model has achieved a good prediction accuracy of 84.8%, along with limitations.
+AU  - Lau, E. T.
+AU  - Sun, L.
+AU  - Yang, Q.
+DA  - 2019/9//
+DO  - 10.1007/S42452-019-0884-7
+IS  - 9
+KW  - Academic performance
+KW  - Artificial neural network
+KW  - Machine learning
+KW  - Statistical analysis
+PB  - Springer Nature
+PY  - 2019
+TI  - Modelling, prediction and classification of student academic performance using artificial neural networks
+T2  - SN Applied Sciences
+VL  - 1
+ER  -
+TY  - JOUR
+AB  - Predicting the academic performance of students has been an important research topic in the Educational field. The main aim of a higher education institution is to provide quality education for students. One way to accomplish a higher level of quality of education is by predicting student’s academic performance and there by taking earlyre-medial actions to improve the same. This paper presents a system which utilizes machine learning techniques to classify and predict the academic performance of the students at the right time before the drop out occurs. The system first accepts the performance parameters of the basic level courses which the student had already passed as these parameters also influence the further study. To pre-dict the performance of the current program, the system continuously accepts the academic performance parame-ters after each academic evaluation process. The system employs machine learning techniques to study the aca-demic performance of the students after each evaluation process. The system also learns the basic rules followed by the University for assessing the students. Based on the present performance of the students, the system classifies the students into different levels and identify the students at high risk. Earlier prediction can help the students to adopt suitable measures in advance to improve the per for-man ce. The systems can also identify the factor saffecting the performance of the same students which helps them to take remedial measures in advance.
+AU  - Raveendran Pillai, B.
+AU  - Gautham, J.
+DA  - 2019/9//
+DO  - 10.35940/IJITEE.K1254.09811S19
+IS  - 11 Special Issue
+KW  - Academic performance
+KW  - Classification-regression methods
+KW  - Deep learning
+KW  - Keras
+KW  - Machine learning
+KW  - Tensorflow
+PB  - Blue Eyes Intelligence Engineering and Sciences Publication
+PY  - 2019
+SP  - 1265
+EP  - 1267
+TI  - Deep regressor: Cross subject academic performance prediction system for university level students
+T2  - International Journal of Innovative Technology and Exploring Engineering
+VL  - 8
+ER  -
+TY  - JOUR
+AB  - Students performance is an essential part of a higher learning institution because one of the criteria for a high -quality university is based on its excellent record of academic achievements. The first-year of the lecture is the student period of laying the foundation that will affect academic success because first-year plays an important role in shaping the attitudes and performance of students in the following years. In this study, a semi-supervised learning approach is used to classify the performance of first-year students in the Department of Mathematics, Universitas Indonesia. Student performance will be divided into two categories, namely medium and high. The sample in this study consist of 140 first-year students with 27 features. There are two processes used i.e. clustering and the classification process. In the clustering process, the data is divided into three clusters using K-Means Clustering and the Naïve Bayes Classifier is chosen to classify it. The performance of the proposed algorithms is stated by accuracy, sensitivity, and specificity value i.e. 96%, 92.86%, and 100% respectively.
+AU  - Widyaningsih, Yekti
+AU  - Fitriani, Nur
+AU  - Sarwinda, Devvi
+DA  - 2019/7//
+DO  - 10.1109/ICTS.2019.8850950
+KW  - K-Means Clustering
+KW  - Naïve Bayes Classifier
+KW  - Semi-supervised Learning
+KW  - Student Performance
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2019
+SN  - 9781728121338
+SP  - 291
+EP  - 295
+TI  - A semi-supervised learning approach for predicting student's performance: First-year students case study
+T2  - Proceedings of 2019 International Conference on Information and Communication Technology and Systems, ICTS 2019
+ER  -
+TY  - JOUR
+AB  - Data mining offers strong techniques for different sectors involving education. In the education field the research is developing rapidly increasing due to huge number of student’s information which can be used to invent valuable pattern pertaining learning behavior of students. The institutions of education can utilize educational data mining to examine the performance of students which can support the institution in recognizing the student’s performance. In data mining classification is a familiar technique that has been implemented widely to find the performance of students. In this study a new prediction algorithm for evaluating student’s performance in academia has been developed based on both classification and clustering techniques and been ested on a real time basis with student dataset of various academic disciplines of higher educational institutions in Kerala, India. The result proves that the hybrid algorithm combining clustering and classification approaches yields results that are far superior in terms of achieving accuracy in prediction of academic performance of the students.
+AU  - Francis, Bindhia K.
+AU  - Babu, Suvanam Sasidhar
+DA  - 2019/6//
+DO  - 10.1007/S10916-019-1295-4
+IS  - 6
+KW  - Educational data mining
+KW  - K-means clustering
+KW  - Prediction accuracy
+KW  - Student academic performance
+PB  - Springer New York LLC
+PY  - 2019
+TI  - Predicting Academic Performance of Students Using a Hybrid Data Mining Approach
+T2  - Journal of Medical Systems
+VL  - 43
+ER  -
+TY  - JOUR
+AB  - In the era of data evolution, many organizations have taken the lead in storing the data in huge data repositories. Analysis of data comes with several challenges since the time the data is captures till the insights are inferred from the data. Accentuating the accuracy of data analysis is of paramount importance as many critical decisions are totally dependent on the outcomes of the analysis. Machine learning has been found as the most effective and most preferred tool in the literature for in-memory data analytics. Universities mostly collect the statistical data related to the students that is only either used quantitatively or sparsely analyzed to gain the insights that could be useful for the authorities to enhance the percentage of placements in campus drives held through early analysis of such data accurately. The work proposed in this paper formulates the problem of predicting the likelihood of a student getting placed in a company as a binary classification problem. Then it makes an effort to train and perform the empirical study of following multiple machine learning algorithms with the placement data; Logistic Regression, Naïve Bayes, Support Vector Machine, K-Nearest Neighbor and Decision Tree. The machine learning classification models are built to predict the probabilities of a student getting placed in a company based on the student’s academic scores, achievements, work experience (internship), and many other relevant features. Such an analysis helps the university authorities to dynamically create plans to enhance the unlikely students to be placed in a company participating in the campus recruitment held in the university. To improve these models and to avoid the models from overfitting to the training data, strategies like K-Fold cross-validation is applied for various values of k. The machine learning models selected are also compared for its efficiency by employing the supervised and unsupervised feature extraction techniques such as PCA and LDA. The Decision Tree model with K as 10 for cross-validation and PCA has outperformed all the other models producing the accuracy of 72.83% with satisfactory support and recall during experimentation. The application focuses on the targeted group of students, to eventually improve the probability of students getting placed during campus recruitment drives held in the university.
+AU  - Athreya Shetty, B.
+AU  - Pasha, Akram
+AU  - Amith Singh, S.
+AU  - Shreyas, N. I.
+AU  - Hande, Adithya R.
+DA  - 2019/5//
+IS  - 5 SpecialIssue
+KW  - Classification
+KW  - Data analytics
+KW  - Data mining
+KW  - K-fold cross validation
+KW  - LDA
+KW  - Machine Learning
+KW  - PCA
+PB  - Blue Eyes Intelligence Engineering and Sciences Publication
+PY  - 2019
+SP  - 182
+EP  - 187
+TI  - Comparative study of multiple machine learning algorithms for students’ performance data for job placement in university
+T2  - International Journal of Engineering and Advanced Technology
+VL  - 8
+ER  -
+TY  - JOUR
+AB  - Data is the most important asset for any organization which is further processed to produce useful information. Machine Learning and Big Data techniques are widely used for industrial sectors to generate useful patterns helpful for earning more profits and expand businesses. From the past few years, a lot of research works have been done by using Big Data techniques on educational data for improvement in Education System. Machine Learning and Big Data can be useful for predicting the students’ admission, performance of teaching, performance of a student, identifying the group of students of similar behavior. However, the manual process of record checking is time consuming, tedious, and error prone; due to the inherent volume and complexity of data. In this study, the combination of linear and non-linear machine learning algorithms; Logistic Regression, Decision Tree, k-NN, and Naïve Bayes have been chosen to perform prediction of the target class for an unseen observation by polling. As the models built in this work are predicting the likelihood of a student taking up the admission into any university based on the student data collected by any marketing agency, the combined models are collectively called as the Admission Predictor. The administrative officials of any academic institution can use this kind of an application to explore and analyze the patterns that are affecting the student admission and come up with enhanced strategies to improve admission. Such an application not only plays a vital role in administration, but also help the management in reformulating the marketing criteria for overall development of academic institution.
+AU  - Anil, B.
+AU  - Pasha, Akram
+AU  - Aman
+AU  - Singh, Aman Kumar
+AU  - Singh, Aditya Kumar
+DA  - 2019/5//
+IS  - 5 SpecialIssue
+KW  - Classification
+KW  - Data analytics
+KW  - Data mining
+KW  - K-Fold cross validation
+KW  - LDA
+KW  - Machine learning
+KW  - PCA
+PB  - Blue Eyes Intelligence Engineering and Sciences Publication
+PY  - 2019
+SP  - 192
+EP  - 198
+TI  - Multiple machine learning classifiers for student’s admission to university prediction
+T2  - International Journal of Engineering and Advanced Technology
+VL  - 8
+ER  -
+TY  - JOUR
+AB  - The academic performance of a student in a university is determined by a number of factors, both academic and non-academic. Student that previously excelled at the secondary school level may lose focus due to peer pressure and social lifestyle while those who previously struggled due to family distractions may be able to focus away from home, and as a result excel at the university. University admission in Nigeria is typically based on cognitive entry characteristics of a student which is mostly academic, and may not necessarily translate to excellence once in the university. In this study, the relationship between the cognitive admission entry requirements and the academic performance of students in their first year, using their CGPA and class of degree was examined using six data mining algorithms in KNIME and Orange platforms. Maximum accuracies of 50.23% and 51.9% respectively were observed, and the results were verified using regression models, with R 2 values of 0.207 and 0.232 recorded which indicate that students’ performance in their first year is not fully explained by cognitive entry requirements.
+AU  - Adekitan, Aderibigbe Israel
+AU  - Noma-Osaghae, Etinosa
+DA  - 2019/3//
+DO  - 10.1007/S10639-018-9839-7
+IS  - 2
+KW  - Academic performance
+KW  - Data mining algorithms
+KW  - Educational data mining
+KW  - Knowledge discovery
+KW  - Machine learning
+KW  - Nigerian university
+PB  - Springer New York LLC
+PY  - 2019
+SP  - 1527
+EP  - 1543
+TI  - Data mining approach to predicting the performance of first year student in a university using the admission requirements
+T2  - Education and Information Technologies
+VL  - 24
+ER  -
+TY  - JOUR
+AB  - Each year, roughly 30% of first-year students at US baccalaureate institutions do not return for their second year and billions of dollars are spent educating these students. Yet, little quantitative research has analyzed the causes and possible remedies for student attrition. What's more, most of the previous attempts to model attrition at traditional campuses using machine learning have focused on small, homogeneous groups of students. In this work, we model student attrition using a dataset that is composed almost exclusively of information routinely collected for record-keeping at a large, public US university. By examining the entirety of the university's student body and not a subset thereof, we use one of the largest known datasets for examining attrition at a public US university (N = 66,060). Our results show that students' second year re-enrollment and eventual graduation can be accurately predicted based on a single year of data (AUROCs = 0.887 and 0.811, respectively). We find that demographic data (such as race, gender, etc.) and pre-admission data (such as high school academics, entrance exam scores, etc.) - upon which most admissions processes are predicated - are not nearly as useful as early college performance/transcript data for these predictions. These results highlight the potential for data mining to impact student retention and success at traditional campuses.
+AU  - Aulck, Lovenoor
+AU  - Nambi, Dev
+AU  - Velagapudi, Nishant
+AU  - Blumenstock, Joshua
+AU  - West, Jevin
+PB  - International Educational Data Mining Society
+PY  - 2019
+SN  - 9781733673600
+SP  - 9
+EP  - 18
+TI  - Mining university registrar records to predict first-year undergraduate attrition
+T2  - EDM 2019 - Proceedings of the 12th International Conference on Educational Data Mining
+ER  -
+TY  - JOUR
+AB  - This paper analyses the problem of predicting students' academic performance, a subject that is increasingly investigated within the Educational Data Mining literature. For a better understanding of the educational related phenomena, there is a continuous interest in applying supervised and unsupervised learning methods for obtaining additional insights into the students' learning process. The problem of predicting if a student will pass or fail at a certain academic discipline based on the students' grades received during the semester is a difficult one, highly dependent on various conditions such as the course, the number of examinations during the semester, the instructors and their exigences. We propose a new classification model, S PRAR (Students Performance prediction using Relational Association Rules) for predicting the final result of a student at a certain academic discipline using relational association rules (RARs). RARs extend the classical association rules for expressing various relationships between data attributes. Experiments are performed on three real academic data sets collected from Babeş-Bolyai University from Romania. The performance of the S PRAR classifier on the considered case studies is compared against existing related work, being superior to previously proposed students' performance predictors.
+AU  - Czibula, Gabriela
+AU  - Mihai, Andrei
+AU  - Crivei, Liana Maria
+DO  - 10.1016/J.PROCS.2019.09.156
+KW  - 68P15
+KW  - Educational data mining
+KW  - Relational association rules 2000 MSC: 68T05
+KW  - Students' performance prediction
+KW  - Supervised learning
+PB  - Elsevier B.V.
+PY  - 2019
+SP  - 20
+EP  - 29
+TI  - S PRAR: A novel relational association rule mining classification model applied for academic performance prediction
+T2  - Procedia Computer Science
+VL  - 159
+ER  -
+TY  - JOUR
+AB  - In most universities, the number of students who graduated on time reflect tremendously on their operation costs. In such cases, the high number of graduate-on-time or GOT students achievement will indirectly reduce the university’s annual operation cost per student. Not as trivial as it seems, to ensure most of the students able to GOT is challenging. It may vary in the perspective of university practises, academic programmes, and students’ background. At the university’s level, students’ data can be used to identify the achievement and ability of students, interests, and weaknesses. To build an accurate predictive model, it requires an extensive study on significant factors that may contribute to students’ ability to graduate on time. Consequently, this study aims to construct a predictive model that can predict students’ graduation status. We applied five different machine learning algorithms (classifiers) namely Decision Tree, Random Forest, Naïve Bayes, Support Vector Machine (PolyKernel), and Support Vector Machine (RBFKernel). These classifiers were evaluated with four different k folds of 5, 10, 15, and 20. The performance of these classifiers was compared based on different measurement subject to accuracy, precision, recall, and F-Score. The results indicated that Support Vector Machine (PolyKernel) outperformed other classifiers and the best numbers of k folds for this experiment are 5 and 20. This predictive model of GOT is hopefully will beneficial to university management and academicians to devise their strategies in helping and improving the weakness of students’ academic performance and to ensure they can graduate on time.
+AU  - Mohammad Suhaimi, Nurafifah
+AU  - Abdul-Rahman, Shuzlina
+AU  - Mutalib, Sofianita
+AU  - Abdul Hamid, Nurzeatul Hamimah
+AU  - Md Ab Malik, Ariff
+DO  - 10.1007/978-981-15-0399-3_11
+KW  - Data mining
+KW  - Graduate-On-Time
+KW  - Machine learning
+KW  - Predictive model
+KW  - Supervised algorithm
+PB  - Springer
+PY  - 2019
+SN  - 9789811503986
+SP  - 130
+EP  - 141
+TI  - Predictive Model of Graduate-On-Time Using Machine Learning Algorithms
+T2  - Communications in Computer and Information Science
+VL  - 1100
+ER  -
+TY  - JOUR
+AB  - In this era of education and technology, it is undeniable that there is a growing interaction between machine and humans. Student performance is of prime importance as education is the key to success. At the university of Mauritius, the number of students enrolled in a course does not match the number of students graduating as not every student complete their academic cycle of 3 or 4 years. Some extend their course duration as they have to repeat the whole year or several modules, while others exit with a certificate or diploma since they lack the required number of credits to obtain a degree. Unfortunately, the registration of some students with very low average marks are terminated. This research work investigates a machine learning model to predict the performance of university students on a yearly basis. The model will forecast student performance and help take necessary actions before it is too late. The classification technique is used to train the proposed model using an existing student dataset. The training phase generates a training model that can then be used to predict student performance based on parameters such as attendance, marks, study hours, health or average performance. Different algorithms are evaluated and the classification and prediction algorithms which are more accurate are recommended.
+AU  - Canagareddy, Derinsha
+AU  - Subarayadu, Khuslendra
+AU  - Hurbungs, Visham
+DO  - 10.1007/978-3-030-18240-3_29
+KW  - Classification
+KW  - Education
+KW  - Machine learning
+KW  - Prediction
+KW  - Tertiary
+PB  - Springer Verlag
+PY  - 2019
+SN  - 9783030182397
+SP  - 313
+EP  - 322
+TI  - A Machine Learning Model to Predict the Performance of University Students
+T2  - Lecture Notes in Electrical Engineering
+VL  - 561
+ER  -
+TY  - JOUR
+AB  - Students’ performance prediction in higher education has been identified as one of the most important research problems in machine learning. Educational data mining constitutes an important branch of machine learning trying to effectively analyze students’ academic behavior and predict their performance. Over recent years, several machine learning methods have been effectively used in the educational field with remarkable results, and especially supervised classification methods. The early identification of in case fail students is of utmost importance for the academic staff and the universities. In this paper, we investigate the effectiveness of active learning methodologies in predicting students’ performance in distance higher education. As far as we are aware of there exists no study dealing with the implementation of active learning methodologies in the educational field. Several experiments take place in our research comparing the accuracy measures of familiar active learners and demonstrating their efficiency by the exploitation of a small labeled dataset together with a large pool of unlabeled data.
+AU  - Kostopoulos, Georgios
+AU  - Lipitakis, Anastasia Dimitra
+AU  - Kotsiantis, Sotiris
+AU  - Gravvanis, George
+DO  - 10.1007/978-3-319-65172-9_7
+KW  - Distance higher education
+KW  - Performance prediction
+KW  - Pool-based active learning
+KW  - Uncertainty sampling query
+KW  - Unlabeled data
+PB  - Springer Verlag
+PY  - 2017
+SN  - 9783319651712
+SP  - 75
+EP  - 86
+TI  - Predicting student performance in distance higher education using active learning
+T2  - Communications in Computer and Information Science
+VL  - 744
+ER  -
+TY  - JOUR
+AB  - Student performance prediction is an area of concern for educational institutions. At the University level learning system, the method or rule adopted to identify the candidates who pass or fail differs depending on various factors such as the course, the department of study and so on. Predicting the result of a student in a course is an issue that has recently been addressed using machine learning techniques. The focus of this work is to find a way to predict a student's academic performance in the University using the machine learning approach. This is done by using the previous records of the student rather than applying course dependent formulae to predict the student's final grade. In this work, meta decision tree classifier techniques based on four representative learning algorithms, namely Adaboost, Bagging, Dagging and Grading are used to construct different decision trees. REPTree is used as the decision tree method for meta learning. These four meta learning methods have been compared separately with respect to the training and test sets. Adaboost is found to be the best meta decision classifier for predicting the student's result based on the marks obtained in the semester.
+AU  - Shanthini, A.
+AU  - Vinodhini, G.
+AU  - Chandrasekaran, R. M.
+DO  - 10.3844/JCSSP.2018.654.662
+IS  - 5
+KW  - Decision Trees
+KW  - Machine Learning
+KW  - Meta Classifiers
+KW  - REPTree
+PB  - Science Publications
+PY  - 2018
+SP  - 654
+EP  - 662
+TI  - Predicting students' academic performance in the University using meta decision tree classifiers
+T2  - Journal of Computer Science
+VL  - 14
+ER  -
+TY  - JOUR
+AB  - The main objective of this research study is to determine how socio-economic factors affect the educational attainments of high-school students. For our study, we considered the socio-economic and academic data corresponding to more than ten years of records obtained from the leading university of an Andean country. Then, we used classification algorithms and machine learning techniques to determine which factors are the more influential on academic performance. We found that academic scholarship, age, county and high school degree influences academic performance of students. The results of this study constitute important information for academic directors and social workers involved in the task of improving the conditions of students and providing all of them the means to success.
+AU  - Segura-Morales, Marco
+AU  - Loza-Aguirre, Edison
+DA  - 2018/12//
+DO  - 10.1109/CSCI.2017.197
+KW  - academic performance
+KW  - data mining
+KW  - decision tree
+KW  - high-school students
+KW  - higher education
+KW  - socio-economic factors
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2018
+SN  - 9781538626528
+SP  - 1132
+EP  - 1136
+TI  - Using Decision Trees for Predicting Academic Performance Based on Socio-Economic Factors
+T2  - Proceedings - 2017 International Conference on Computational Science and Computational Intelligence, CSCI 2017
+ER  -
+TY  - JOUR
+AB  - The student success is one of the essential components to assess the quality of the educational institutions. Monitoring student performance is of no use unless or otherwise it is done from the early stage. This research work will definitely consider two factors in mind about student success, firstly, Academic success. Secondly, Placement success. The goal of the proposed system is to predict the student's success using machine learning techniques and give feedback to the educational institutions. In this work , discussion of factors which affect the prediction, finding out the data sources and discussion about the various techniques used in prediction have been done.
+AU  - Aruna, P
+AU  - Priya, N
+DO  - 10.1145/3494885.3494916
+KW  - Machine Learning Algorithms
+KW  - Performance Prediction
+KW  - Student Success
+KW  - Success Factors
+PY  - 2021
+SN  - 9781450390675
+TI  - Analysis of Machine Learning techniques for Predicting Student Success in an Educational Institution; Analysis of Machine Learning techniques for Predicting Student Success in an Educational Institution
+UR  - https://doi.org/10.1145/3494885.3494916
+ER  -
